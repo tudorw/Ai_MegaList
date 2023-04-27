@@ -1,6 +1,76 @@
 # Ai_MegaList
 Public List Of AI apps, tools and open source packages
 AI Tools 2023
+- Al image Enlarger
+- Al Lawyer
+- Al Picasso
+- Ask Thee
+- Ask Your PDF
+- AstriaAl
+- Base64Al
+- BearlyAl
+- BlendAl
+- Botify
+- BHuman
+- Buzzy
+- CastmagicAl
+- Cohesive Al
+- Delv Al
+- DocktopusAl
+- DurableAl
+- Durable Al Website Builder
+- EllieAl
+- Engage Al
+- FourAl
+- FigmaAl
+- Ghostwryteral
+- GleanAl
+- HarveyAl
+- Hereafter
+- HintsAl
+- Hypotenuse Al
+- HypotenuseAl
+- LovoAI
+- LongshotAl
+- LookaAl
+- MagicalAl
+- MarcBot
+- MarkopoloAl
+- MemAl
+- Momentum
+- Motion Al
+- MurfAl
+- Nanonets
+- PerplexityAl
+- PicassoAI
+- PromptpalAl
+- Publer
+- QuinvioAl
+- Quotify
+- Rezi Al
+- ReziAI
+- RephraseAl
+- Remove.bg
+- Roam around
+- RoomGPT
+- SidekickAl
+- SimplifiedAl
+- SlidesAl
+- Speak
+- StabilityAl
+- Study Al
+- SuggestyAl
+- SupercreatorAl
+- SupernormalAl
+- TL; DV
+- Trust
+- WaitroomAl
+- Wand AI
+- WandAI
+- Whimsical
+- Wordtune
+- WriteSonicAl
+
 
 1. Wand AI: Self-service no code AI platform to generate AI with no friction.
 
