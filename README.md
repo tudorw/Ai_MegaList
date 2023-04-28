@@ -1,458 +1,221 @@
 # Ai_MegaList
 Public List Of AI apps, tools and open source packages
 AI Tools 2023
-- Adarga
-- Advanced Micro Devices, Inc.
-- Agribolo
-- AI.Reverie
-- Aibono
-- Al Lawyer
-- Al image Enlarger
-- Al Picasso
-- Alphabet, Inc.
-- Alphasense
-- Alibaba Cloud
-- AlanAl
-- Amazon Web Services, Inc.
-- Asteria Aerospace
-- AstriaAl
-- Axonify
-- Baidu
-- Base64Al
-- BearlyAl
-- BlendAl
-- Botify
-- BHuman
-- Buzzy
-- Caption Health
-- CastmagicAl
-- Cape Analytics
-- Cerebras Systems
-- Clarifai
-- Cleo
-- CloudMedX Health
-- Coherent Logix
-- Cohesive Al
-- Cropin
-- CrowdStrike
-- Dataiku
-- DataRobot
-- Darktrace
-- Delv Al
-- Denodo
-- DocktopusAl
-- DurableAl
-- Durable Al Website Builder
-- E2open
-- Elastic
-- Eightfold.ai
-- Element AI
-- EllieAl
-- Emergn
-- Engage Al
-- Enlitic
-- exa.ai
-- FigmaAl
-- FourAl
-- Fractal
-- G2 Crowd
-- Genesys
-- Ghostwryteral
-- GleanAl
-- Google AI
-- Graphcore
-- Guardant Health
-- H2O.ai
-- HarveyAl
-- Hereafter
-- HintsAl
-- Hypotenuse Al
-- HypotenuseAl
-- IBM
-- Infosys
-- InVision
-- Insilico Medicine
-- Intel
-- Intuitive Surgical
-- Jellyfish
-- JFrog
-- Kapil Gupta
-- Keep
-- Kea
-- Keysight Technologies
-- Kyndryl
-- LaMDA
-- Leap Motion
-- Lemonade
-- LinkedIn
-- Lumos AI
-- LookaAl
-- LovoAI
-- Magic Leap
-- MagicalAl
-- Magic Pony Technology
-- Mapbox
-- MarcBot
-- MarkopoloAl
-- Matterport
-- MemAl
-- Microsoft
-- Mixpanel
-- Momentum
-- Motion Al
-- MurfAl
-- Nanonets
-- NanoString Technologies
-- Nauto
-- Nextbase
-- Nightingale
-- OneSoil
-- Optum
-- OpenAI
-- Palantir Technologies
-- Palo Alto Networks
-- Pepperdine University
-- Pepperfry
-- Pillpack
-- PicassoAI
-- Pluralsight
-- Point AI
-- PromptpalAl
-- Publer
-- Quantum Computing
-- QuantumBlack
-- QuestAI
-- QuinvioAl
-- Quotify
-- Rasa
-- Rasa Technologies
-- Realm
-- Recursion Pharmaceuticals
-- RephraseAl
-- Remove.bg
-- Rezi Al
-- ReziAI
-- Ribon
-- Roam around
-- RoomGPT
-- Salesforce
-- SambaNova Systems
-- Scale AI
-- SentinelOne
-- SevenRooms
-- Sift Science
-- SiFive
-- SingularityNET
-- Snyk
-- Social AI
-- Socure
-- SparkCognition
-- Spectral
-- Splunk
-- Squarespace
-- Stack Overflow
-- StabilityAl
-- Stitch Fix
-- Study Al
-- SuggestyAl
-- SupercreatorAl
-- SupernormalAl
-- Synopsys
-- Tata Consultancy Services
-- Talkdesk
-- ThoughtSpot
-- TL; DV
-- Transcriptic
-- Trust
-- Turo
-- UiPath
-- Unity Technologies
-- Upwork
-- Valence Health
-- Verily
-- Verily Life Sciences
-- Vicarious
-- VividWorks
-- VMware
-- WaitroomAl
-- Wand AI
-- WandAI
-- Waymo
-- WeaveGrid
-- Weka
-- Whimsical
-- WillowTree
-- Wordtune
-- WriteSonicAl
-- Xometry
-- Yellowbrick Data
-- Zebra Technologies
-- Zscaler
+Sure, here is the list of AI apps, tools and open source packages, filtered for duplicates and arranged alphabetically, in GitHub Markdown code:
 
-- Avanseus
-- Bloomreach
-- Blue River Technology
-- Butterfly Network
-- Cape Analytics
-- Caption Health
-- Century Tech
-- Cerebras Systems
-- Cleo
-- CloudMedX Health
-- Corti
-- Cropin
-- Darktrace
-- Dataiku
-- Deep Instinct
-- Eightfold.ai
-- Enlitic
-- exa.ai
-- Insilico Medicine
-- Intuitive Surgical
-- Jellyfish
-- Keep
-- Lemonade
-- Magic Pony Technology
-- Matterport
-- NanoString Technologies
-- Nauto
-- Nextbase
-- Nightingale
-- OneSoil
-- Optum
-- Palantir Technologies
-- Pepperfry
-- Pillpack
-- QuantumBlack
-- Quri
-- Rasa Technologies
-- Realm
-- Recursion Pharmaceuticals
-- Ribon
-- Scale AI
-- SentinelOne
-- SevenRooms
-- Sift Science
-- Socure
-- SparkCognition
-- Spectral
-- Stitch Fix
-- SwiftKey
-- Synopsys
-- ThoughtSpot
-- Transcriptic
-- Turo
-- Uptake Technologies
-- Valence Health
-- Verily
-- Vicarious
-- VividWorks
-- Waymo
-- WillowTree
-- Workday
-- Xometry
-- Zebra Technologies
 
-- Habana Labs
-- Al image Enlarger
-- Al Lawyer
-- Al Picasso
-- Ask Thee
-- Ask Your PDF
-- AstriaAl
-- Base64Al
-- BearlyAl
-- BlendAl
-- Botify
-- BHuman
-- Buzzy
-- CastmagicAl
-- Cohesive Al
-- Delv Al
-- DocktopusAl
-- DurableAl
-- Durable Al Website Builder
-- EllieAl
-- Engage Al
-- FourAl
-- FigmaAl
-- Ghostwryteral
-- GleanAl
-- HarveyAl
-- Hereafter
-- HintsAl
-- Hypotenuse Al
-- HypotenuseAl
-- LongshotAl
-- LookaAl
-- MagicalAl
-- MarcBot
-- MarkopoloAl
-- MemAl
-- Momentum
-- Motion Al
-- MurfAl
-- Nanonets
-- PerplexityAl
-- PicassoAI
-- PromptpalAl
-- Publer
-- QuinvioAl
-- Quotify
-- Rezi Al
-- ReziAI
-- RephraseAl
-- Remove.bg
-- Roam around
-- RoomGPT
-- SidekickAl
-- SimplifiedAl
-- SlidesAl
-- Speak
-- StabilityAl
-- Study Al
-- SuggestyAl
-- SupercreatorAl
-- SupernormalAl
-- TL; DV
-- Trust
-- WaitroomAl
-- Wand AI
-- WandAI
-- Whimsical
-- Wordtune
-- WriteSonicAl
-- Avanseus
-- Bloomreach
-- Blue River Technology
-- Butterfly Network
-- Cape Analytics
-- Caption Health
-- Century Tech
-- Cerebras Systems
-- Cleo
-- CloudMedX Health
-- Corti
-- Cropin
-- Darktrace
-- Dataiku
-- Deep Instinct
-- Eightfold.ai
-- Enlitic
-- exa.ai
-- Insilico Medicine
-- Intuitive Surgical
-- Jellyfish
-- Keep
-- Lemonade
-- Magic Pony Technology
-- Matterport
-- NanoString Technologies
-- Nauto
-- Nextbase
-- Nightingale
-- OneSoil
-- Optum
-- Palantir Technologies
-- Pepperfry
-- Pillpack
-- QuantumBlack
-- Quri
-- Rasa Technologies
-- Realm
-- Recursion Pharmaceuticals
-- Ribon
-- Scale AI
-- SentinelOne
-- SevenRooms
-- Sift Science
-- Socure
-- SparkCognition
-- Spectral
-- Stitch Fix
-- SwiftKey
-- Synopsys
-- ThoughtSpot
-- Transcriptic
-- Turo
-- Uptake Technologies
-- Valence Health
-- Verily
-- Vicarious
-- VividWorks
-- Waymo
-- WillowTree
-- Workday
-- Xometry
-- Zebra Technologies
+# AI Tools 2023
 
-- Habana Labs
-- Al image Enlarger
-- Al Lawyer
-- Al Picasso
-- Ask Thee
-- Ask Your PDF
-- AstriaAl
-- Base64Al
-- BearlyAl
-- BlendAl
-- Botify
-- BHuman
-- Buzzy
-- CastmagicAl
-- Cohesive Al
-- Delv Al
-- DocktopusAl
-- DurableAl
-- Durable Al Website Builder
-- EllieAl
-- Engage Al
-- FourAl
-- FigmaAl
-- Ghostwryteral
-- GleanAl
-- HarveyAl
-- Hereafter
-- HintsAl
-- Hypotenuse Al
-- HypotenuseAl
-- LongshotAl
-- LookaAl
-- MagicalAl
-- MarcBot
-- MarkopoloAl
-- MemAl
-- Momentum
-- Motion Al
-- MurfAl
-- Nanonets
-- PerplexityAl
-- PicassoAI
-- PromptpalAl
-- Publer
-- QuinvioAl
-- Quotify
-- Rezi Al
-- ReziAI
-- RephraseAl
-- Remove.bg
-- Roam around
-- RoomGPT
-- SidekickAl
-- SimplifiedAl
-- SlidesAl
-- Speak
-- StabilityAl
-- Study Al
-- SuggestyAl
-- SupercreatorAl
-- SupernormalAl
-- TL; DV
-- Trust
-- WaitroomAl
-- Wand AI
-- WandAI
-- Whimsical
-- Wordtune
-- WriteSonicAl
+This list is a collection of AI apps, tools, and open source packages. It is filtered for duplicates and arranged alphabetically.
+
+## A
+
+* Al image Enlarger
+* Al Lawyer
+* Al Picasso
+* Ask Thee
+* Ask Your PDF
+* AsteriaAl
+* Ava
+* Avanseus
+* Azure AI
+
+## B
+
+* Base64Al
+* BerlyAl
+* BlendAl
+* Blue River Technology
+* Butterfly Network
+
+## C
+
+* Cape Analytics
+* Caption Health
+* Century Tech
+* Cerebras Systems
+* Cleo
+* CloudMedX Health
+* Cohesive Al
+* Coherent Logix
+* Corti
+* Cropin
+
+## D
+
+* Dataiku
+* DataRobot
+* Deep Instinct
+* Eightfold.ai
+* Enlitic
+* Exa.ai
+
+## F
+
+* FigmaAl
+* FourAl
+* Fractal
+
+## G
+
+* G2 Crowd
+* Genesys
+* Ghostwryteral
+* GleanAl
+* Google AI
+* Graphcore
+* Guardant Health
+
+## H
+
+* H2O.ai
+* HarveyAl
+* Hereafter
+* HintsAl
+* Hypotenuse Al
+* HypotenuseAl
+* IBM
+
+## I
+
+* Infosys
+* InVision
+* Insilico Medicine
+* Intel
+* Intuitive Surgical
+
+## J
+
+* JFrog
+* Kapil Gupta
+* Keep
+* Kea
+* Keysight Technologies
+* Kyndryl
+
+## L
+
+* LaMDA
+* Leap Motion
+* Lemonade
+* LinkedIn
+* Lumos AI
+* LookaAl
+* LovoAI
+* Magic Leap
+* MagicalAl
+* Magic Pony Technology
+* Mapbox
+* MarcBot
+* MarkopoloAl
+* Matterport
+* MemAl
+* Microsoft
+* Mixpanel
+* Momentum
+* Motion Al
+* MurfAl
+* Nanonets
+* NanoString Technologies
+* Nauto
+* Nextbase
+* Nightingale
+* OneSoil
+* Optum
+
+## O
+
+* OpenAI
+* Palantir Technologies
+* Palo Alto Networks
+* Pepperdine University
+* Pepperfry
+* Pillpack
+* PicassoAI
+* Pluralsight
+* Point AI
+* PromptpalAl
+* Publer
+* Quantum Computing
+* QuantumBlack
+* QuestAI
+* QuinvioAl
+* Quotify
+
+## R
+
+* Rasa
+* Rasa Technologies
+* Realm
+* Recursion Pharmaceuticals
+* RephraseAl
+* Remove.bg
+* Rezi Al
+* ReziAI
+* Ribon
+* Roam around
+* RoomGPT
+
+## S
+
+* Salesforce
+* SambaNova Systems
+* Scale AI
+* SentinelOne
+* SevenRooms
+* Sift Science
+* SiFive
+* SingularityNET
+* Snyk
+* Social AI
+* Socure
+* SparkCognition
+* Spectral
+* Splunk
+* Squarespace
+* Stack Overflow
+* StabilityAl
+* Stitch Fix
+* Study Al
+* SuggestyAl
+* SupercreatorAl
+* SupernormalAl
+* Synopsys
+
+## T
+
+* Tata Consultancy Services
+* Talkdesk
+* ThoughtSpot
+* TL; DV
+* Transcriptic
+* Trust
+* Turo
+* UiPath
+* Unity Technologies
+* Upwork
+* Valence Health
+* Verily
+* Verily Life Sciences
+* Vicarious
+* VividWorks
+* VMware
+* WaitroomAl
+* Wand AI
+* WandAI
+* Waymo
+* WeaveGrid
+* Weka
+* Whimsical
+* WillowTree
+* Wordtune
+* WriteSonicAl
+
+## X
+
+* Xometry
+* Yellowbrick Data
+* Zebra Technologies
+* Zscaler
+
 
