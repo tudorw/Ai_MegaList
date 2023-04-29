@@ -1,220 +1,221 @@
 # Ai_MegaList by #FrogYellow #AI4ALL
 
 To Be Reviwed 
-Abacus.AI: https://www.abacus.ai/
-Acobot: https://acobot.ai/
-Acronotics: https://acronotics.com/
-Adarga: https://www.adarga.com/
-Adext AI: https://adext.ai/
-AdiMap: https://www.adimap.com/
-Adqura: https://adqura.com/
-AEye: https://www.aeye.ai/
-Affectiva: https://www.affectiva.com/
-AI Foundation: https://www.aifoundation.com/
-AI.Reverie: https://www.aireverie.com/
-Aira: https://aira.io/
-AITRICS: https://aitrics.com/
-Alation: https://www.alation.com/
-Alethea AI: https://alethea.ai/
-Algocian: https://algocian.com/
-Algorithmia: https://algorithmia.com/
-Allen Institute for AI: https://allenai.org/
-Alpaca.ai: https://alpaca.ai/
-Amplero: https://www.amplero.com/
-Anagog: https://www.anagog.com/
-AppZen: https://www.appzen.com/
-Aptonomy: https://aptonomy.ai/
-Aqua Security: https://www.aquasec.com/
-Argo AI: https://www.argo.ai/
-Arti: https://arti.tv/
-Arya: https://www.arya.ai/
-Ascent Robotics: https://www.ascent.ai/
-Assembled: https://www.assembled.com/
-Atomwise: https://www.atomwise.com/
-Atrium: https://www.atrium.ai/
-Attentive: https://attentive.ai/
-Auransa: https://auransa.com/
-Automat: https://automat.ai/
-Ava Robotics: https://www.avarobotics.com/
-Aviso AI: https://www.aviso.com/
-Ayasdi: https://www.ayasdi.com/
-Baidu: https://www.baidu.com/
-Banuba: https://www.banuba.com/
-BenevolentAI: https://benevolent.ai/
-BigPanda: https://bigpanda.io/
-Bonsai: https://www.bons.ai/
-BrainChip: https://www.brainchipinc.com/
-C3.ai: https://c3.ai/
-Cognitivescale: https://www.cognitivescale.com/
-Cortical.io: https://www.cortical.io/
-Daisy Intelligence: https://daisyintelligence.com/
-Datafold: https://datafold.com/
-DataRobot: https://www.datarobot.com/
-Deep 6 AI: https://www.deep6.ai/
-Deep Genomics: https://www.deepgenomics.com/
-Deep Instinct: https://www.deepinstinct.com/
-Deep 3: https://www.deep-3.com/
-Deep Vision: https://www.deepvisionai.com/
-Deepgram: https://deepgram.com/
-Deepomatic: https://www.deepomatic.com/
-Descartes Labs: https://www.descarteslabs.com/
-Diffblue: https://www.diffblue.com/
-Digital Reasoning: https://www.digitalreasoning.com/
-Doc.ai: https://doc.ai/
-DominateRFID: https://dominaterfid.com/
-Dotty: https://dotty.io/
-Drive.ai: https://www.drive.ai/
-Duality Technologies: https://duality.ai/
-Dynatrace: https://www.dynatrace.com/
-Eigen Technologies: https://www.eigentech.com/
-Elula: https://www.elula.ai/
-Emagin: https://www.emagin.ai/
-Emerge: https://emerge.me/
-Entropik Tech: https://entropiktech.com/
-Epistemic AI: https://epistemic.ai/
-Epsagon: https://epsagon.com/
-Evisort: https://evisort.com/
-Fiddler: https://www.fiddler.ai/
-Freenome: https://www.freenome.com/
-FullStory: https://www.fullstory.com/
-Freenome: https://www.freenome.com/
-Gecko Robotics: https://www.geckorobotics.com/
-GenesisAI: https://www.genesisai.io/
-Geospiza: https://geospiza.ai/
-Gideon Brothers: https://www.gideonbros.ai/
-Gong.io: https://www.gong.io/
-Graphcore: https://www.graphcore.ai/
-Grid.ai: https://www.grid.ai/
-Gro Intelligence: https://www.gro-intelligence.com/
-Hailo: https://www.hailo.ai/
-Haptik: https://haptik.ai/
-Hazy: https://www.hazy.com/
-Hivemapper: https://hivemapper.com/
-Hugging Face: https://huggingface.co/
-HyperScience: https://www.hyperscience.com/
-IBM Watson: https://www.ibm.com/watson
-iMerit: https://imerit.net/
-Immuta: https://www.immuta.com/
-Indico Data: https://indico.io/
-InsideSales: https://www.insidesales.com/
-Insilico Medicine: https://insilico.com/
-Intellegens: https://intellegens.ai/
-Intuition Robotics: https://www.intuitionrobotics.com/
-Jivox: https://www.jivox.com/
-KAI: https://kai.ai/
-Kaskada: https://www.kaskada.com/
-Kinetica: https://www.kinetica.com/
-Kira Systems: https://kirasystems.com/
-Kneron: https://www.kneron.us/
-KNIME: https://www.knime.com/
-Lilt: https://lilt.com/
-Lobe: https://lobe.ai/
-Logically: https://logically.ai/
-Loop AI Labs: https://loop.ai/
-Lucidworks: https://lucidworks.com/
-Luminoth: https://luminoth.ai/
-MachineBox: https://machinebox.io/
-MachineMax: https://www.machinemax.com/
-Malong Technologies: https://www.malong.com/
-Meya.ai: https://meya.ai/
-Mighty AI: https://www.mighty.ai/
-MindTickle: https://www.mindtickle.com/
-MinIO: https://min.io/
-Mish Guru: https://mish.guru/
-Mobvoi: https://www.mobvoi.com/
-Modzy: https://modzy.com/
-MOLOCO: https://www.moloco.ai/
-Moogsoft: https://www.moogsoft.com/
-Mosaic.ai: https://www.mosaic.ai/
-Moveworks: https://www.moveworks.ai/
-Mphasis DeepInsights: https://www.mphasis.com/deepinsights
-Myelin Foundry: https://www.myelinfoundry.com/
-Nauto: https://www.nauto.com/
-Neurala: https://www.neurala.com/
-NeuroFlow: https://www.neuroflow.com/
-Neuton AI: https://neuton.ai/
-NLP Cloud: https://nlpcloud.io/
-NVIDIA: https://www.nvidia.com/
-OJO Labs: https://www.ojolabs.com/
-One Concern: https://www.oneconcern.com/
-OneClick.ai: https://oneclick.ai/
-OpenAI: https://openai.com/
-Optibus: https://www.optibus.com/
-Osaro: https://osaro.com/
-Pachyderm: https://www.pachyderm.com/
-Paperspace: https://www.paperspace.com/
-ParallelM: https://www.parallelm.com/
-PathAI: https://www.pathai.com/
-Perceptive Automata: https://perceptiveautomata.com/
-Peritus.ai: https://peritus.ai/
-Petuum: https://www.petuum.com/
-Phrasee: https://phrasee.co/
-Pienso: https://www.pienso.com/
-Playment: https://playment.io/
-Plytix.com: https://www.plytix.com/
-Primer: https://www.primer.ai/
-Prodigy: https://prodi.gy/
-Prometeo: https://www.prometeo.tech/
-Proximal Data: https://www.proximaldata.com/
-Pymetrics: https://www.pymetrics.com/
-Qatalog: https://qatalog.com/
-Qntfy: https://qntfy.com/
-Quid: https://quid.com/
-Quill: https://www.quill.org/
-Rainbird: https://rainbird.ai/
-RapidMiner: https://rapidminer.com/
-Realtime Robotics: https://www.rtr.ai/
-RealityEngines.AI: https://www.realityengines.ai/
-Recursion Pharmaceuticals: https://www.recursionpharma.com/
-Reflektion: https://reflektion.com/
-Rekognition (Amazon): https://aws.amazon.com/rekognition/
-Resemble AI: https://www.resemble.ai/
-Reveal Group: https://revealgroup.com/
-Roam Analytics: https://www.roamanalytics.ai/
-Robust Intelligence: https://robustintelligence.com/
-Robovision: https://robovision.ai/
-Suki.AI: https://suki.ai/
-Sukiennice: https://sukiennice.ai/
-Suki.AI: https://suki.ai/
-Synerise: https://synerise.com/
-Syntiant: https://www.syntiant.com/
-Tamr: https://www.tamr.com/
-TealBook: https://tealbook.com/
-Tempered Networks: https://www.temperednetworks.com/
-TerminusDB: https://terminusdb.com/
-Textio: https://textio.com/
-Textkernel: https://www.textkernel.com/
-ThoughtSpot: https://www.thoughtspot.com/
-ThryveAI: https://www.thryveai.com/
-Tractable: https://www.tractable.ai/
-Triage: https://www.triage.com/
-Trifacta: https://www.trifacta.com/
-Trill AI: https://trill
-Trusted Insight: https://trustedinsight.com/
-Trusted Key: https://www.trustedkey.com/
-Tropic: https://tropic.ai/
-TuSimple: https://www.tusimple.com/
-Twilio: https://www.twilio.com/
-UiPath: https://www.uipath.com/
-Unbabel: https://unbabel.com/
-Unlearn.AI: https://unlearn.ai/
-Unsupervised: https://unsupervised.com/
-Uptake: https://www.uptake.com/
-Valohai: https://valohai.com/
-VergeSense: https://www.vergesense.com/
-Vicarious: https://www.vicarious.com/
-Vidado: https://vidado.ai/
-Viz.ai: https://www.viz.ai/
-Vymo: https://getvymo.com/
-Wefox: https://www.wefox.com/
-WellSaid Labs: https://www.wellsaidlabs.com/
-xnor.ai: https://www.xnor.ai/
-Yseop: https://yseop.com/
-ZestFinance: https://www.zestfinance.com/
-Zestful: https://zestful.com/
-Zinier: https://www.zinier.com/
-Ziva Dynamics: https://zivadynamics.com/
-Zymergen: https://www.zymergen.com/
+- [Abacus.AI](https://www.abacus.ai/)
+- [Acobot](https://acobot.ai/)
+- [Acronotics](https://acronotics.com/)
+- [Adarga](https://www.adarga.com/)
+- [Adext AI](https://adext.ai/)
+- [AdiMap](https://www.adimap.com/)
+- [Adqura](https://adqura.com/)
+- [AEye](https://www.aeye.ai/)
+- [Affectiva](https://www.affectiva.com/)
+- [AI Foundation](https://www.aifoundation.com/)
+- [AI.Reverie](https://www.aireverie.com/)
+- [Aira](https://aira.io/)
+- [AITRICS](https://aitrics.com/)
+- [Alation](https://www.alation.com/)
+- [Alethea AI](https://alethea.ai/)
+- [Algocian](https://algocian.com/)
+- [Algorithmia](https://algorithmia.com/)
+- [Allen Institute for AI](https://allenai.org/)
+- [Alpaca.ai](https://alpaca.ai/)
+- [Amplero](https://www.amplero.com/)
+- [Anagog](https://www.anagog.com/)
+- [AppZen](https://www.appzen.com/)
+- [Aptonomy](https://aptonomy.ai/)
+- [Aqua Security](https://www.aquasec.com/)
+- [Argo AI](https://www.argo.ai/)
+- [Arti](https://arti.tv/)
+- [Arya](https://www.arya.ai/)
+- [Ascent Robotics](https://www.ascent.ai/)
+- [Assembled](https://www.assembled.com/)
+- [Atomwise](https://www.atomwise.com/)
+- [Atrium](https://www.atrium.ai/)
+- [Attentive](https://attentive.ai/)
+- [Auransa](https://auransa.com/)
+- [Automat](https://automat.ai/)
+- [Ava Robotics](https://www.avarobotics.com/)
+- [Aviso AI](https://www.aviso.com/)
+- [Ayasdi](https://www.ayasdi.com/)
+- [Baidu](https://www.baidu.com/)
+- [Banuba](https://www.banuba.com/)
+- [BenevolentAI](https://benevolent.ai/)
+- [BigPanda](https://bigpanda.io/)
+- [Bonsai](https://www.bons.ai/)
+- [BrainChip](https://www.brainchipinc.com/)
+- [C3.ai](https://c3.ai/)
+- [Cognitivescale](https://www.cognitivescale.com/)
+- [Cortical.io](https://www.cortical.io/)
+- [Daisy Intelligence](https://daisyintelligence.com/)
+- [Datafold](https://datafold.com/)
+- [DataRobot](https://www.datarobot.com/)
+- [Deep 6 AI](https://www.deep6.ai/)
+- [Deep Genomics](https://www.deepgenomics.com/)
+- [Deep Instinct](https://www.deepinstinct.com/)
+- [Deep 3](https://www.deep-3.com/)
+- [Deep Vision](https://www.deepvisionai.com/)
+- [Deepgram](https://deepgram.com/)
+- [Deepomatic](https://www.deepomatic.com/)
+- [Descartes Labs](https://www.descarteslabs.com/)
+- [Diffblue](https://www.diffblue.com/)
+- [Digital Reasoning](https://www.digitalreasoning.com/)
+- [Doc.ai](https://doc.ai/)
+- [DominateRFID](https://dominaterfid.com/)
+- [Dotty](https://dotty.io/)
+- [Drive.ai](https://www.drive.ai/)
+- [Duality Technologies](https://duality.ai/)
+- [Dynatrace](https://www.dynatrace.com/)
+- [Eigen Technologies](https://www.eigentech.com/)
+- [Elula](https://www.elula.ai/)
+- [Emagin](https://www.emagin.ai/)
+- [Emerge](https://emerge.me/)
+- [Entropik Tech](https://entropiktech.com/)
+- [Epistemic AI](https://epistemic.ai/)
+- [Epsagon](https://epsagon.com/)
+- [Evisort](https://evisort.com/)
+- [Fiddler](https://www.fiddler.ai/)
+- [Freenome](https://www.freenome.com/)
+- [FullStory](https://www.fullstory.com/)
+- [Freenome](https://www.freenome.com/)
+- [Gecko Robotics](https://www.geckorobotics.com/)
+- [GenesisAI](https://www.genesisai.io/)
+- [Geospiza](https://geospiza.ai/)
+- [Gideon Brothers](https://www.gideonbros.ai/)
+- [Gong.io](https://www.gong.io/)
+- [Graphcore](https://www.graphcore.ai/)
+- [Grid.ai](https://www.grid.ai/)
+- [Gro Intelligence](https://www.gro-intelligence.com/)
+- [Hailo](https://www.hailo.ai/)
+- [Haptik](https://haptik.ai/)
+- [Hazy](https://www.hazy.com/)
+- [Hivemapper](https://hivemapper.com/)
+- [Hugging Face](https://huggingface.co/)
+- [HyperScience](https://www.hyperscience.com/)
+- [IBM Watson](https://www.ibm.com/watson)
+- [iMerit](https://imerit.net/)
+- [Immuta](https://www.immuta.com/)
+- [Indico Data](https://indico.io/)
+- [InsideSales](https://www.insidesales.com/)
+- [Insilico Medicine](https://insilico.com/)
+- [Intellegens](https://intellegens.ai/)
+- [Intuition Robotics](https://www.intuitionrobotics.com/)
+- [Jivox](https://www.jivox.com/)
+- [KAI](https://kai.ai/)
+- [Kaskada](https://www.kaskada.com/)
+- [Kinetica](https://www.kinetica.com/)
+- [Kira Systems](https://kirasystems.com/)
+- [Kneron](https://www.kneron.us/)
+- [KNIME](https://www.knime.com/)
+- [Lilt](https://lilt.com/)
+- [Lobe](https://lobe.ai/)
+- [Logically](https://logically.ai/)
+- [Loop AI Labs](https://loop.ai/)
+- [Lucidworks](https://lucidworks.com/)
+- [Luminoth](https://luminoth.ai/)
+- [MachineBox](https://machinebox.io/)
+- [MachineMax](https://www.machinemax.com/)
+- [Malong Technologies](https://www.malong.com/)
+- [Meya.ai](https://meya.ai/)
+- [Mighty AI](https://www.mighty.ai/)
+- [MindTickle](https://www.mindtickle.com/)
+- [MinIO](https://min.io/)
+- [Mish Guru](https://mish.guru/)
+- [Mobvoi](https://www.mobvoi.com/)
+- [Modzy](https://modzy.com/)
+- [MOLOCO](https://www.moloco.ai/)
+- [Moogsoft](https://www.moogsoft.com/)
+- [Mosaic.ai](https://www.mosaic.ai/)
+- [Moveworks](https://www.moveworks.ai/)
+- [Mphasis DeepInsights](https://www.mphasis.com/deepinsights)
+- [Myelin Foundry](https://www.myelinfoundry.com/)
+- [Nauto](https://www.nauto.com/)
+- [Neurala](https://www.neurala.com/)
+- [NeuroFlow](https://www.neuroflow.com/)
+- [Neuton AI](https://neuton.ai/)
+- [NLP Cloud](https://nlpcloud.io/)
+- [NVIDIA](https://www.nvidia.com/)
+- [OJO Labs](https://www.ojolabs.com/)
+- [One Concern](https://www.oneconcern.com/)
+- [OneClick.ai](https://oneclick.ai/)
+- [OpenAI](https://openai.com/)
+- [Optibus](https://www.optibus.com/)
+- [Osaro](https://osaro.com/)
+- [Pachyderm](https://www.pachyderm.com/)
+- [Paperspace](https://www.paperspace.com/)
+- [ParallelM](https://www.parallelm.com/)
+- [PathAI](https://www.pathai.com/)
+- [Perceptive Automata](https://perceptiveautomata.com/)
+- [Peritus.ai](https://peritus.ai/)
+- [Petuum](https://www.petuum.com/)
+- [Phrasee](https://phrasee.co/)
+- [Pienso](https://www.pienso.com/)
+- [Playment](https://playment.io/)
+- [Plytix.com](https://www.plytix.com/)
+- [Primer](https://www.primer.ai/)
+- [Prodigy](https://prodi.gy/)
+- [Prometeo](https://www.prometeo.tech/)
+- [Proximal Data](https://www.proximaldata.com/)
+- [Pymetrics](https://www.pymetrics.com/)
+- [Qatalog](https://qatalog.com/)
+- [Qntfy](https://qntfy.com/)
+- [Quid](https://quid.com/)
+- [Quill](https://www.quill.org/)
+- [Rainbird](https://rainbird.ai/)
+- [RapidMiner](https://rapidminer.com/)
+- [Realtime Robotics](https://www.rtr.ai/)
+- [RealityEngines.AI](https://www.realityengines.ai/)
+- [Recursion Pharmaceuticals](https://www.recursionpharma.com/)
+- [Reflektion](https://reflektion.com/)
+- [Rekognition (Amazon)](https://aws.amazon.com/rekognition/)
+- [Resemble AI](https://www.resemble.ai/)
+- [Reveal Group](https://revealgroup.com/)
+- [Roam Analytics](https://www.roamanalytics.ai/)
+- [Robust Intelligence](https://robustintelligence.com/)
+- [Robovision](https://robovision.ai/)
+- [Suki.AI](https://suki.ai/)
+- [Sukiennice](https://sukiennice.ai/)
+- [Suki.AI](https://suki.ai/)
+- [Synerise](https://synerise.com/)
+- [Syntiant](https://www.syntiant.com/)
+- [Tamr](https://www.tamr.com/)
+- [TealBook](https://tealbook.com/)
+- [Tempered Networks](https://www.temperednetworks.com/)
+- [TerminusDB](https://terminusdb.com/)
+- [Textio](https://textio.com/)
+- [Textkernel](https://www.textkernel.com/)
+- [ThoughtSpot](https://www.thoughtspot.com/)
+- [ThryveAI](https://www.thryveai.com/)
+- [Tractable](https://www.tractable.ai/)
+- [Triage](https://www.triage.com/)
+- [Trifacta](https://www.trifacta.com/)
+- [Trill AI](https://trill.ai/)
+- [Trusted Insight](https://trustedinsight.com/)
+- [Trusted Key](https://www.trustedkey.com/)
+- [Tropic](https://tropic.ai/)
+- [TuSimple](https://www.tusimple.com/)
+- [Twilio](https://www.twilio.com/)
+- [UiPath](https://www.uipath.com/)
+- [Unbabel](https://unbabel.com/)
+- [Unlearn.AI](https://unlearn.ai/)
+- [Unsupervised](https://unsupervised.com/)
+- [Uptake](https://www.uptake.com/)
+- [Valohai](https://valohai.com/)
+- [VergeSense](https://www.vergesense.com/)
+- [Vicarious](https://www.vicarious.com/)
+- [Vidado](https://vidado.ai/)
+- [Viz.ai](https://www.viz.ai/)
+- [Vymo](https://getvymo.com/)
+- [Wefox](https://www.wefox.com/)
+- [WellSaid Labs](https://www.wellsaidlabs.com/)
+- [xnor.ai](https://www.xnor.ai/)
+- [Yseop](https://yseop.com/)
+- [ZestFinance](https://www.zestfinance.com/)
+- [Zestful](https://zestful.com/)
+- [Zinier](https://www.zinier.com/)
+- [Ziva Dynamics](https://zivadynamics.com/)
+- [Zymergen](https://www.zymergen.com/)
+
 To Be Reviewed;
 - ABEJA: https://abejainc.com/
 - Ada Support: https://www.adasupport.com/
