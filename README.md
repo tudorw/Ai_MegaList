@@ -1,7 +1,7 @@
 # Ai_MegaList
 
-- Al image Enlarger: N/A
-- Al Lawyer: N/A
+- [Al image Enlarger](https://imglarger.com/)
+- [Al Lawyer](https://www.ai-lawyer.uk/)
 - Al Picasso: [https://www.alpicasso.net/](https://www.alpicasso.net/)
 - Ask Thee: [https://www.askthee.com/](https://www.askthee.com/)
 - Ask Your PDF: [https://www.askyourpdf.com/](https://www.askyourpdf.com/)
@@ -9,9 +9,7 @@
 - Ava: [https://www.avahq.com/](https://www.avahq.com/)
 - Avanseus: [https://www.avanseus.com/](https://www.avanseus.com/)
 - Azure AI: [https://azure.microsoft.com/en-us/services/cognitive-services/ai-fundamentals/](https://azure.microsoft.com/en-us/services/cognitive-services/ai-fundamentals/)
-- ase64Al: N/A
-- BerlyAl: N/A
-- BlendAl: N/A
+- [Base64AI] (https://base64.ai/)
 - Blue River Technology: [https://www.bluerivertechnology.com/](https://www.bluerivertechnology.com/)
 - Butterfly Network: [https://www.butterflynetwork.com/](https://www.butterflynetwork.com/)
 - Cape Analytics: [https://www.capeanalytics.com/](https://www.capeanalytics.com/)
@@ -29,20 +27,18 @@
 - Eightfold.ai: [https://eightfold.ai/](https://eightfold.ai/)
 - Enlitic: [https://www.enlitic.com/](https://www.enlitic.com/)
 - Exa.ai: [https://www.exa.ai/](https://www.exa.ai/)
-- FigmaAl: N/A
-- FourAl: N/A
+- [FigmaAl](https://www.figma.com/)
 - Fractal: [https://fractal.ai/](https://fractal.ai/)
-- G: N/A
 - G2 Crowd: [https://www.g2.com/](https://www.g2.com/)
 - Genesys: [https://www.genesys.com/](https://www.genesys.com/)
-- Ghostwryteral: N/A
-- GleanAl: N/A
+- [Ghostwriter](https://ghostwriter-ai.com/)
+- [GleanAl](https://www.glean.com/)
 - Google AI: [https://ai.google/](https://ai.google/)
 - Graphcore: [https://www.graphcore.ai/](https://www.graphcore.ai/)
 - Guardant Health: [https://www.guardanthealth.com/](https://www.guardanthealth.com/)
 1. [H2O.ai](https://www.h2o.ai/)
-2. HarveyAl - Unable to find a website for this company
-3. Hereafter - Unable to find a website for this company
+
+3. [Hereafter](https://www.hereafter.ai/)
 4. HintsAl - Unable to find a website for this company
 5. Hypotenuse Al - Unable to find a website for this company
 6. HypotenuseAl - Unable to find a website for this company
