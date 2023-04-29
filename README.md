@@ -1,12 +1,5 @@
 # Ai_MegaList
-Public List Of AI apps, tools and open source packages
-AI Tools 2023
-Sure, here is the list of AI apps, tools and open source packages, filtered for duplicates and arranged alphabetically, in GitHub Markdown code:
 
-
-# AI Tools 2023
-
-This list is a collection of AI apps, tools, and open source packages. It is filtered for duplicates and arranged alphabetically.
 - Al image Enlarger: N/A
 - Al Lawyer: N/A
 - Al Picasso: [https://www.alpicasso.net/](https://www.alpicasso.net/)
