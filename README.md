@@ -91,7 +91,7 @@
 - [Quantum Computing](https://www.dwavesys.com/take-leap)
 - [QuantumBlack](https://www.quantumblack.com/)
 - [QuestAI](https://www.quest.ai/)
-- QuinvioAl - N/A
+- [Quinvio Al](https://www.quinv.io/ai)
 - [Quotify](https://quotify.ai/)
 - [R](https://www.r-project.org/)
 - [Rasa](https://rasa.com/)
