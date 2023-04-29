@@ -56,7 +56,7 @@
 - [LinkedIn](https://www.linkedin.com/)
 - [Lumos AI](https://lumos.ai/)
 - [LookaAl](https://looka.com/)
-- [LovoAI](https://lo
+- [LovoAI](https://lovo.ai)
 - [Magic Leap](https://www.magicleap.com/)
 - [MagicalAl](https://magicalal.com/)
 - Magic Pony Technology - N/A (Acquired by Twitter in 2016)
