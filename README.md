@@ -1,5 +1,7 @@
 # Ai_MegaList
 
+As of 29/04/2023 to my knowledge, below is alphabetized and formatted and linked by AI YMMV and I am hoping to get some help checking all these!
+
 - [Al image Enlarger](https://imglarger.com/)
 - [Al Lawyer](https://www.ai-lawyer.uk/)
 - [Al Picasso](https://www.alpicasso.net/)
