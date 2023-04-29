@@ -14,7 +14,7 @@
 - [Butterfly Network](https://www.butterflynetwork.com/)
 - [Cape Analytics](https://www.capeanalytics.com/)
 - [Caption Health](https://captionhealth.com/)
-- 8Century Techerebras Systems: N/A
+- [Cerebras](https://www.cerebras.net/)
 - [Cleo](https://www.cleo.com/)
 - [CloudMedX Health](http://cloudmedxhealth.com/)
 - [Cohesive Al](https://www.cohesive.ai/)
