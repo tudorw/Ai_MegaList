@@ -1,159 +1,157 @@
 # Ai_MegaList
 
 To Be Reviewed;
-ABEJA
-Ada Support
-Aera Technology
-AIBrain
-AiCure
-AIDoc
-Aisera
-Algolia
-Alegion
-Anki
-Anodot
-Appen
-Appier
-Arterys
-Attivio
-Automation Anywhere
-Avaamo
-Banjo
-Beyond Limits
-Big Panda
-BioCatch
-Blinkist
-Blinkx
-Bonsai
-Brain Corp
-Bryter
-Casetext
-Chorus.ai
-Clarifai
-Clarify Health
-CloudMinds
-Cognimates
-Cognigy
-Cognism
-Cognitivescale
-Conversica
-CrowdStrike
-Cybereason
-DARKTRACE
-Datarobot
-Dataiku
-DataVisor
-DefinedCrowd
-Descartes Labs
-Drift
-Drive.ai
-Dremio
-Element AI
-Embodied
-Evolv
-Exabeam
-Falkonry
-Freenome
-Gamalon
-Gong
-Grammarly
-H2O.ai
-Hive
-Idibon
-Imagia
-Infermedica
-Invoca
-iRobot
-Iterative.ai
-JASK
-Jumio
-K Health
-Kasisto
-Kensho
-Kite
-Klevu
-Lattice Data
-Leanplum
-Lilt
-Logz.io
-Loop AI Labs
-MindMeld
-Moogsoft
-Mabl
-Mya Systems
-Mythic
-Nara Logics
-Nauto
-Netradyne
-Neurable
-Next IT
-Numerai
-Numenta
-Nutonomy
-Omilia
-OrCam
-Osmo
-Oxagile
-Oxbotica
-Pecan
-People.ai
-PerimeterX
-Persado
-Petuum
-Peltarion
-PathAI
-Predii
-Primer AI
-Rainbird
-RapidMiner
-Recursion Pharmaceuticals
-Replicant
-Rasa
-Rekognition
-Remesh
-RocketFuel
-Ross Intelligence
-Rulai
-Sift
-Sight Machine
-SightCall
-Sorcerro
-Suki.AI
-Sensely
-Scale AI
-Seventh Sense
-Shift Technology
-Skytree
-Snorkel AI
-SoundHound
-SparkCognition
-Stradigi AI
-Suki.AI
-Syntiant
-Talla
-Tessian
-Textio
-ThoughtSpot
-Tractable
-TruSTAR
-True Fit
-Turing
-UiPath
-Unbabel
-Uniphore
-Uptake
-Vicarious
-Vidado
-Viv Labs
-Vymo
-Voyage
-x.ai
-Yseop
-Zest AI
-
+- ABEJA
+- Ada Support
+- Aera Technology
+- AIBrain
+- AiCure
+- AIDoc
+- Aisera
+- Algolia
+- Alegion
+- Anki
+- Anodot
+- Appen
+- Appier
+- Arterys
+- Attivio
+- Automation Anywhere
+- Avaamo
+- Banjo
+- Beyond Limits
+- Big Panda
+- BioCatch
+- Blinkist
+- Blinkx
+- Bonsai
+- Brain Corp
+- Bryter
+- Casetext
+- Chorus.ai
+- Clarifai
+- Clarify Health
+- CloudMinds
+- Cognimates
+- Cognigy
+- Cognism
+- Cognitivescale
+- Conversica
+- CrowdStrike
+- Cybereason
+- DARKTRACE
+- Datarobot
+- Dataiku
+- DataVisor
+- DefinedCrowd
+- Descartes Labs
+- Drift
+- Drive.ai
+- Dremio
+- Element AI
+- Embodied
+- Evolv
+- Exabeam
+- Falkonry
+- Freenome
+- Gamalon
+- Gong
+- Grammarly
+- H2O.ai
+- Hive
+- Idibon
+- Imagia
+- Infermedica
+- Invoca
+- iRobot
+- Iterative.ai
+- JASK
+- Jumio
+- K Health
+- Kasisto
+- Kensho
+- Kite
+- Klevu
+- Lattice Data
+- Leanplum
+- Lilt
+- Logz.io
+- Loop AI Labs
+- MindMeld
+- Moogsoft
+- Mabl
+- Mya Systems
+- Mythic
+- Nara Logics
+- Nauto
+- Netradyne
+- Neurable
+- Next IT
+- Numerai
+- Numenta
+- Nutonomy
+- Omilia
+- OrCam
+- Osmo
+- Oxagile
+- Oxbotica
+- Pecan
+- People.ai
+- PerimeterX
+- Persado
+- Petuum
+- Peltarion
+- PathAI
+- Predii
+- Primer AI
+- Rainbird
+- RapidMiner
+- Recursion Pharmaceuticals
+- Replicant
+- Rasa
+- Rekognition
+- Remesh
+- RocketFuel
+- Ross Intelligence
+- Rulai
+- Sift
+- Sight Machine
+- SightCall
+- Sorcerro
+- Suki.AI
+- Sensely
+- Scale AI
+- Seventh Sense
+- Shift Technology
+- Skytree
+- Snorkel AI
+- SoundHound
+- SparkCognition
+- Stradigi AI
+- Suki.AI
+- Syntiant
+- Talla
+- Tessian
+- Textio
+- ThoughtSpot
+- Tractable
+- TruSTAR
+- True Fit
+- Turing
+- UiPath
+- Unbabel
+- Uniphore
+- Uptake
+- Vicarious
+- Vidado
+- Viv Labs
+- Vymo
+- Voyage
+- x.ai
+- Yseop
+- Zest AI
 
 Confirmed real'ish, with URL's, untested.
-As of 29/04/2023 to my knowledge, below is alphabetized and formatted and linked by AI YMMV and I am hoping to get some help checking all these!
 
 - [Al image Enlarger](https://imglarger.com/)
 - [Al Lawyer](https://www.ai-lawyer.uk/)
