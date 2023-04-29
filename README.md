@@ -1,4 +1,5 @@
-# Ai_MegaList
+# Ai_MegaList by #FrogYellow #AI4ALL
+
 To Be Reviwed 
 Abacus.AI: https://www.abacus.ai/
 Acobot: https://acobot.ai/
