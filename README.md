@@ -602,6 +602,29 @@ To Be Reviwed
 - [Suki.AI](https://suki.ai/)
 - [Synerise](https://synerise.com/)
 - [Syntiant](https://www.syntiant.com/)
+- Scale AI (https://scale.com/): an AI-powered data annotation platform for training machine learning models.
+- Sherpa (https://sherpa.ai/): an AI-powered personal assistant for scheduling, reminders, and recommendations.
+- SoundHound Inc. (https://www.soundhound.com/)
+- Synamedia (https://www.synamedia.com/)
+- Singular (https://www.singular.net/)
+- Signifyd (https://www.signifyd.com/)
+- Suki Wisdom (https://www.sukiwisdom.com/)
+- SenseTime (https://www.sensetime.com/): an AI company that provides face recognition, image recognition, and video analysis technologies for various industries such as healthcare, finance, and retail.
+- Skaleet (https://skaleet.com/)
+- Sukiya (https://sukiya.ai/)
+
+- SigTuple (https://www.sigtuple.com/): a healthcare company that uses AI to automate medical diagnosis.
+- Suki.AI (https://www.suki.ai/): an AI-powered digital assistant for healthcare providers.
+- Sword Health (https://swordhealth.com/): a digital physical therapy solution that uses AI to personalize treatment programs.
+
+- Saleswhale (https://saleswhale.com/): an AI-powered virtual assistant for sales and marketing teams.
+- SynerScope (https://synerscope.com/): an AI-powered data discovery and analysis platform for businesses.
+- Synthetix (https://synthetix.com/): an AI-powered customer service platform for businesses.
+
+- SparkCognition (https://www.sparkcognition.com/): an enterprise software company that offers AI-powered industrial solutions for various industries such as energy, aviation, and manufacturing.
+- Senzing (https://senzing.com/): an AI-powered entity resolution software company that helps businesses in various industries such as finance and security to identify, resolve, and manage entities in data sets.
+- SukiPlus (https://sukiplus.com/): a healthcare AI company that provides a voice-enabled digital assistant for physicians to streamline documentation.
+
 - [Tamr](https://www.tamr.com/)
 - [TealBook](https://tealbook.com/)
 - [Tempered Networks](https://www.temperednetworks.com/)
