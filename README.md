@@ -1,79 +1,92 @@
 # Ai_MegaList by #FrogYellow #AI4ALL
-
-To Be Reviwed 
-- [Abacus.AI](https://www.abacus.ai/)
+- [ABEJA](https://abejainc.com/)
 - [Acobot](https://acobot.ai/)
 - [Acronotics](https://acronotics.com/)
+- [Acuity Trading](#)
+- [Ada Support](https://www.adasupport.com/)
 - [Adarga](https://www.adarga.com/)
 - [Adext AI](https://adext.ai/)
 - [AdiMap](https://www.adimap.com/)
 - [Adqura](https://adqura.com/)
+- [AdTheorent](#)
 - [AEye](https://www.aeye.ai/)
 - [Affectiva](https://www.affectiva.com/)
+- [Agolo](#)
+- [Aibrain](#)
 - [AI Foundation](https://www.aifoundation.com/)
 - [AI.Reverie](https://www.aireverie.com/)
 - [Aira](https://aira.io/)
+- [Aira Matrix](#)
 - [AITRICS](https://aitrics.com/)
+- [Aiva](#)
+- [Aivo](https://www.aivo.com/)
+- [Akkio](#)
 - [Alation](https://www.alation.com/)
 - [Alethea AI](https://alethea.ai/)
+- [Alegion](https://alegion.com/)
 - [Algocian](https://algocian.com/)
 - [Algorithmia](https://algorithmia.com/)
+- [Algolia](https://www.algolia.com/)
 - [Allen Institute for AI](https://allenai.org/)
 - [Alpaca.ai](https://alpaca.ai/)
+- [AlphaSense](#)
+- [Altum AI](#)
+- [Amenity Analytics](#)
 - [Amplero](https://www.amplero.com/)
 - [Anagog](https://www.anagog.com/)
+- [Anki](https://anki.com/)
+- [Anodot](https://www.anodot.com/)
+- [Appen](https://appen.com/)
+- [AppFolio AI](#)
+- [Appier](https://www.appier.com/)
+- [AppTek](#)
 - [AppZen](https://www.appzen.com/)
-- [Aptonomy](https://aptonomy.ai/)
-- [Aqua Security](https://www.aquasec.com/)
+- [ArchIntel](#)
 - [Argo AI](https://www.argo.ai/)
+- [Arize AI](#)
+- [Arterys](https://www.arterys.com/)
 - [Arti](https://arti.tv/)
 - [Arya](https://www.arya.ai/)
+- [Ascent.ai](#)
 - [Ascent Robotics](https://www.ascent.ai/)
+- [Aspire IQ](#)
 - [Assembled](https://www.assembled.com/)
-- [Atomwise](https://www.atomwise.com/)
-- [Atrium](https://www.atrium.ai/)
 - [Attentive](https://attentive.ai/)
-- [Auransa](https://auransa.com/)
-- [Automat](https://automat.ai/)
+- [Attivio](https://www.attivio.com/)
+- [Atrium](https://www.atrium.ai/)
 - [Ava Robotics](https://www.avarobotics.com/)
+- [Avaamo](https://avaamo.com/)
 - [Aviso AI](https://www.aviso.com/)
+- [Automat](https://automat.ai/)
+- [Automaton AI](#)
+- [Automation Anywhere](https://www.automationanywhere.com/)
 - [Ayasdi](https://www.ayasdi.com/)
-- Acuity Trading
-- AdTheorent
-- Agolo
-- Aibrain
-- AIconex Solutions
-- Aira Matrix
-- Akkio
-- AlphaSense
-- Altum AI
-- Amenity Analytics
-- Anodot
-- Appen
-- AppFolio AI
-- Appier
-- AppTek
-- ArchIntel
-- Arize AI
-- Ascent.ai
-- Aspire IQ
-- Automaton AI
+- [Azati](https://azati.ai/)
+- [Abacus.AI](https://www.abacus.ai/)
+- [Accion Systems](https://www.accionsystems.com/)
+
 - [Baidu](https://www.baidu.com/)
+- [Bambuser](https://bambuser.com/)
+- [Banjo](https://banjo.com/)
 - [Banuba](https://www.banuba.com/)
+- [Bartle Bogle Hegarty (BBH)](https://www.bartleboglehegarty.com/)
+- [Beyond Limits](https://www.beyond.ai/)
 - [BenevolentAI](https://benevolent.ai/)
-- [BigPanda](https://bigpanda.io/)
+- [BioCatch](https://www.biocatch.com/)
+- [Bitmoji](https://www.bitmoji.com/)
+- [Blinkist](https://www.blinkist.com/)
+- [Blinkx](https://www.blinkx.com/)
 - [Bonsai](https://www.bons.ai/)
+- [Box](https://www.box.com/)
 - [BrainChip](https://www.brainchipinc.com/)
-- Box
-- Blinkist
-- Bitmoji
-- Buffer
-- Brex
-- Brightcove
-- Blue River Technology
-- Bartle Bogle Hegarty (BBH)
-- Bright.md
-- Bambuser
+- [Brain Corp](https://www.braincorp.com/)
+- [Brex](https://www.brex.com/)
+- [Bright.md](https://bright.md/)
+- [Brightcove](https://www.brightcove.com/)
+- [Blue River Technology](https://www.bluerivertechnology.com/)
+- [Buffer](https://buffer.com/)
+- [Bryter](https://bryter.com/)
+
 - [C3.ai](https://c3.ai/)
 - [Cognitivescale](https://www.cognitivescale.com/)
 - [Cortical.io](https://www.cortical.io/)
@@ -642,54 +655,165 @@ To Be Reviwed
 - [Tropic](https://tropic.ai/)
 - [TuSimple](https://www.tusimple.com/)
 - [Twilio](https://www.twilio.com/)
+- Tamoco (https://www.tamoco.com/)
+- Tanjo (https://www.tanjo.ai/)
+- TARA AI (https://tara.ai/)
+- Tautology (https://tautology.ai/)
+- TazData (https://tazdata.com/)
+- TechSee (https://techsee.me/)
+- Teckro (https://www.teckro.com/)
+- TensorFlight (https://www.tensorflight.com/)
+- TensorWatch (https://github.com/microsoft/tensorwatch) - a debugging and visualization tool for machine learning
+- TensorWise (https://www.tensorwise.ai/)
+- Teneo (https://www.teneo.ai/) - a conversational AI platform that enables businesses to build intelligent virtual assistants and chatbots
+- Teraki (https://www.teraki.com/)
+- Thematic (https://getthematic.com/)
+- Thetaris (https://thetaris.com/)
+- Thetaray (https://www.thetaray.com/)
+- ThinkData Works (https://www.thinkdataworks.com/)
+- ThinkIQ (https://thinkiq.com/)
+- Third Wave Analytics (https://thirdwaveanalytics.com/)
+- ThreeFlow (https://www.threeflow.com/)
+- TimeSolv (https://www.timesolv.com/)
+- TodayTix (https://www.todaytix.com/)
+- Topi (https://topi.io/)
+- Topos Labs (https://www.toposlabs.com/)
+- Tractable (https://www.tractable.ai/)
+- Transcelestial Technologies (https://www.transcelestial.com/)
+- TransFICC (https://www.transficc.com/)
+- Transmetrics (https://transmetrics.eu/)
+- Tray.io (https://tray.io/)
+- Tricog Health (https://www.tricoghealth.com/)
+- Trove (https://www.trove.com/)
+- Truepic (https://truepic.com/)
+- TrustaBit (https://trustabit.com/)
+- Truera (https://www.truera.com/)
+- Turing (https://turing.com/)
+- Tvarit AI (https://tvarit.com/)
+- TazData (https://tazdata.com/)
+
 - [UiPath](https://www.uipath.com/)
 - [Unbabel](https://unbabel.com/)
 - [Unlearn.AI](https://unlearn.ai/)
 - [Unsupervised](https://unsupervised.com/)
 - [Uptake](https://www.uptake.com/)
+- Ubiquity6
+- Umbo Computer Vision
+- Ufora
+- Unsupervised Labs
+- Upside AI
+- Unleash.live
+- Unearth Technologies - an AI-powered platform for construction and infrastructure projects.
+- UserTesting - a user research platform that uses AI and machine learning to provide user insights.
+- Unacast - a location data platform that uses AI to provide accurate and actionable location insights.
+- Umbra - an AI-powered visualization platform for creating high-fidelity 3D models and graphics.
+- Uptycs - a security analytics platform that uses ML to provide real-time threat detection and response.
+- Unima - an AI-based chatbot platform that helps businesses automate customer support.
+- UbiOps - an AI deployment platform that allows developers to deploy and scale their ML models.
+- Understand.ai - a provider of training and validation data for autonomous vehicles and other AI applications.
+
 - [Valohai](https://valohai.com/)
 - [VergeSense](https://www.vergesense.com/)
 - [Vicarious](https://www.vicarious.com/)
 - [Vidado](https://vidado.ai/)
 - [Viz.ai](https://www.viz.ai/)
 - [Vymo](https://getvymo.com/)
+- Valla
+- VantageAI
+- Vector AI
+- Verusen
+- Vic.ai
+- Vizion.ai
+- Volara
+- Voyager Labs
+- Vynce
+- Vyasa Analytics
+- Verloop (https://verloop.io/)
+- Verkada (https://www.verkada.com/)
+- Veros Systems (https://www.verossystems.com/)
+- Vion Labs (https://www.vionlabs.com/)
+- Verbit
+- Vynca
+- VantageAI
+- Vergesense
+- Vidado
+- Viz.ai
+- Vymo
+
 - [Wefox](https://www.wefox.com/)
 - [WellSaid Labs](https://www.wellsaidlabs.com/)
+- Wand
+- Wandera
+- Wejo
+- Wia
+- Wavenet
+- Weightless.ai (https://www.weightless.ai/)
+- Weights and Biases (https://www.wandb.com/)
+- Welligent
+- Whetlab
+- Whispr
+- WhyLabs
+- Winding Tree
+- Wise
+- Wit.ai (https://wit.ai/)
+- Witbe
+- Within3
+- Wonder Workshop
+- Wondeur AI (https://wondeur.ai/)
+- WorkFusion (https://www.workfusion.com/)
+- Woven Planet Holdings
+- Wysdom.AI (https://www.wysdom.ai/)
+- Wolfram Alpha
+- Wolox
+- WaveAI (https://wave.ai/)
+- WiSAR Lab (https://www.wisar.ie/)
+- Wayve (https://wayve.ai/)
+
 - [xnor.ai](https://www.xnor.ai/)
+- - XN Technologies
+- Xesto.ai
+- Ximilar
+- Xineoh
+- Xnor's AI2GO
+- Xnor's AI Edge Inference Platform
+- Xnor's AI Sensing Platform
+- Xpansiv
+- Xperiel
+
 - [Yseop](https://yseop.com/)
-- [ZestFinance](https://www.zestfinance.com/)
-- [Zestful](https://zestful.com/)
-- [Zinier](https://www.zinier.com/)
-- [Ziva Dynamics](https://zivadynamics.com/)
-- [Zymergen](https://www.zymergen.com/)
+- Yellow Messenger: A conversational AI platform for businesses to automate customer engagement.
+- Yitu Technology: A Chinese AI company that develops facial recognition technology for applications such as public safety and healthcare.
+- Yandex: A Russian technology company that offers a range of AI-powered services including search engines, speech recognition, and virtual assistants.
+- Yewno: An AI company that uses machine learning and natural language processing to analyze complex data and provide insights for financial, academic, and research institutions.
+- YuLife: An AI-powered life insurance company that incentivizes customers to make healthier choices through its app.
+- Yonder: An AI-powered social media intelligence platform for brand monitoring.
+- Yellowbox: An AI-powered chatbot platform for customer service.
+- Your.MD: An AI-powered personal health assistant app.
+- YuJa: An AI-powered enterprise video platform for education and corporate markets.
+
+- Zebrium (https://zebrium.com/)
+- Zensed (https://zensed.com/)
+- Zest.ai (https://zest.ai/)
+- Zesty.ai (https://zesty.ai/)
+- Zenatix (https://zenatix.com/)
+- Zenify.ai (https://zenify.ai/)
+- Zensors (https://www.zensors.com/)
+- Zimperium (https://www.zimperium.com/)
+- ZineOne (https://www.zineone.com/)
+- ZingBox (https://www.zingbox.com/)
+- Zolostays (https://zolostays.com/)
+- Zoho (https://www.zoho.com/)
+- Zola Electric (https://www.zolaelectric.com/)
+- Zopa (https://www.zopa.com/)
+- ZorroSign (https://www.zorrosign.com/)
+- Zorroa Corp (https://zorroa.com/)
+- Zulama (https://www.zulama.com/)
+- Zumi (https://zumi.im/)
+- Zerofox (https://www.zerofox.com/)
+
 
 To Be Reviewed;
-- ABEJA: https://abejainc.com/
-- Ada Support: https://www.adasupport.com/
-- Aera Technology: https://www.aeratechnology.com/
-- AIBrain: http://aibrain.com/
-- AiCure: https://www.aicure.com/
-- AIDoc: https://www.ai-doc.com/
-- Aisera: https://www.aisera.com/
-- Algolia: https://www.algolia.com/
-- Alegion: https://alegion.com/
-- Anki: https://anki.com/
-- Anodot: https://www.anodot.com/
-- Appen: https://appen.com/
-- Appier: https://www.appier.com/
-- Arterys: https://www.arterys.com/
-- Attivio: https://www.attivio.com/
-- Automation Anywhere: https://www.automationanywhere.com/
-- Avaamo: https://avaamo.com/
-- Banjo: https://banjo.com/
-- Beyond Limits: https://www.beyond.ai/
-- Big Panda: https://bigpanda.io/
-- BioCatch: https://www.biocatch.com/
-- Blinkist: https://www.blinkist.com/
-- Blinkx: https://www.blinkx.com/
-- Bonsai: https://www.bons.ai/
-- Brain Corp: https://www.braincorp.com/
-- Bryter: https://bryter.com/
+
 - Casetext: https://casetext.com/
 - Chorus.ai: https://www.chorus.ai/
 - Clarifai: https://www.clarifai.com/
