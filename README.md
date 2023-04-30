@@ -64,9 +64,37 @@ To Be Reviwed
 - [BigPanda](https://bigpanda.io/)
 - [Bonsai](https://www.bons.ai/)
 - [BrainChip](https://www.brainchipinc.com/)
+- Box
+- Blinkist
+- Bitmoji
+- Buffer
+- Brex
+- Brightcove
+- Blue River Technology
+- Bartle Bogle Hegarty (BBH)
+- Bright.md
+- Bambuser
 - [C3.ai](https://c3.ai/)
 - [Cognitivescale](https://www.cognitivescale.com/)
 - [Cortical.io](https://www.cortical.io/)
+- Clarifai
+- Comet.ml
+- Cambridge Intelligence
+- Cognitiveservices.ai
+- Cognitivesolutions
+- Cubic.ai
+- Cognitivescale
+- CloudMinds
+- Cognitivesystems
+- Cogitai
+- Comet.ml
+- Cognitivescale
+- Cortical.io
+- Cycorp
+- CrowdFlower
+- CloudWalk
+- Chaayos.ai
+- Cognitiv+
 - [Daisy Intelligence](https://daisyintelligence.com/)
 - [Datafold](https://datafold.com/)
 - [DataRobot](https://www.datarobot.com/)
@@ -86,6 +114,35 @@ To Be Reviwed
 - [Drive.ai](https://www.drive.ai/)
 - [Duality Technologies](https://duality.ai/)
 - [Dynatrace](https://www.dynatrace.com/)
+- Databook
+- Datalog.ai
+- Datalogue (https://www.datalogue.io/)
+- DarwinAI (https://darwinai.ca/)
+- Datarobotics (https://www.datarobotics.com/)
+- Datumize (https://www.datumize.com/)
+- Datatron
+- DataVisor (https://www.datavisor.com/)
+- Dataiku (https://www.dataiku.com/)
+- Dataminr
+- DeepCube (https://deepcube.ai/)
+- DeepHow (https://www.deephow.com/)
+- Deeplite
+- DeepJunctionAI (https://www.deepjunction.ai/)
+- Deepsense.ai (https://deepsense.ai/)
+- Delft Robotics (https://delftrobotics.nl/)
+- Dessa (https://www.dessa.com/)
+- Dessa Lab (https://www.dessalabs.com/)
+- Diamanti (https://diamanti.com/)
+- Diffia (https://diffia.ai/)
+- DigitalGenius (https://www.digitalgenius.com/)
+- DigiByte AI (https://digibyte.ai/)
+- Dhivya AI
+- Doinn (https://doinn.co/)
+- DPloy Solutions (https://www.dploy.ai/)
+- Devo
+- DSphere (https://dsphere.tech/)
+
+
 - [Eigen Technologies](https://www.eigentech.com/)
 - [Elula](https://www.elula.ai/)
 - [Emagin](https://www.emagin.ai/)
@@ -94,10 +151,58 @@ To Be Reviwed
 - [Epistemic AI](https://epistemic.ai/)
 - [Epsagon](https://epsagon.com/)
 - [Evisort](https://evisort.com/)
+- Eigenworks
+- Echobox
+- Elastifile
+- Element AI
+- Embold
+- Enlitic
+- Eonite Perception
+- Ergo
+- Etymotic Research
+- Ezako
+- Empath Inc.
+- Endor
+- Espressive
+- EventBot
+- Everlaw
+- Exacto
+- Envisagenics
+- Epica
+- EraDB
+- Evolutio
+- Emotech
+- Entefy
+- Ethyca
+- Eyeris
+- Ezora
+- EVA Bot
+
 - [Fiddler](https://www.fiddler.ai/)
 - [Freenome](https://www.freenome.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Freenome](https://www.freenome.com/)
+- Fabula AI
+- FaceBanx
+- Face++
+- Fashwell
+- Fetch Robotics
+- Fero Labs
+- Figmenta
+- FiveAI
+- FraudScope
+- Freeness
+- Freenetik
+- Freenome
+- Freenomics
+- Freenotics
+- Freenumbers
+- Fractal Analytics
+- Fulcrum Analytics
+- FundGuard
+- Fusemachines
+- Feedzai
+
 - [Gecko Robotics](https://www.geckorobotics.com/)
 - [GenesisAI](https://www.genesisai.io/)
 - [Geospiza](https://geospiza.ai/)
@@ -106,12 +211,52 @@ To Be Reviwed
 - [Graphcore](https://www.graphcore.ai/)
 - [Grid.ai](https://www.grid.ai/)
 - [Gro Intelligence](https://www.gro-intelligence.com/)
+- Gecko Robotics
+- Geospiza
+- GenesisAI
+- Gideon Brothers
+- Glia
+- Gluru (https://gluru.co/)
+- Goodly Labs (https://goodlylabs.org/)
+- Gong.io
+- Graphcore
+- GrayMatter AI (https://www.graymatter.ai/)
+- Grakn.ai (https://grakn.ai/)
+- Grid.ai
+- GumGum (https://www.gumgum.com/)
+- Gyana
+- Gyrfalcon Technology
+- Glean Labs (https://www.gleanlabs.com/)
+
 - [Hailo](https://www.hailo.ai/)
 - [Haptik](https://haptik.ai/)
 - [Hazy](https://www.hazy.com/)
 - [Hivemapper](https://hivemapper.com/)
 - [Hugging Face](https://huggingface.co/)
 - [HyperScience](https://www.hyperscience.com/)
+- - H2O.ai - Open-source AI platform for building and deploying machine learning models.
+- Habana Labs - Provider of AI processors for datacenters and cloud environments.
+- Hacarus - Provides AI solutions for industrial and medical applications.
+- Halla - AI-powered food ordering platform that personalizes menus based on customer preferences.
+- Healx - Uses AI to accelerate drug discovery and development for rare diseases.
+- Healthtech.AI - AI-powered healthtech platform that provides personalized health recommendations and insights.
+- Hello Alice - AI-powered platform that connects small business owners with resources and opportunities.
+- Highspot - Uses AI to provide sales enablement solutions that help sales teams close deals more efficiently.
+- Holistic Industries - Uses AI to optimize cannabis cultivation and production.
+- Hopper AI - Develops AI-powered tools for optimizing digital advertising campaigns.
+- Hmlet AI - Proptech company that uses AI to optimize co-living spaces.
+- Humanizing AI - Develops AI systems that are more human-like and empathetic.
+- Humley - Conversational AI platform that provides chatbot and voice assistant solutions for businesses.
+- Hugging Face - Develops natural language processing (NLP) models and tools for conversational AI applications.
+- Hyper Anna - AI-powered business intelligence platform that provides insights and predictions.
+- Hypergiant - AI solutions provider that aims to simplify the adoption and integration of AI for businesses across industries.
+- Hypersay - AI-powered platform for interactive presentations and webinars.
+- H2O Cleantech - Uses AI to improve water management and reduce water loss.
+- HeadSpin - AI-powered platform that helps businesses optimize their mobile apps.
+- Heyday AI - Develops AI-powered chatbots for e-commerce and customer service.
+- Hasty.ai - AI-powered annotation tool for computer vision that helps businesses accelerate the creation of high-quality training data for their machine learning models.
+- Hypersonix - AI platform that provides real-time analytics and insights to businesses.
+
 - [IBM Watson](https://www.ibm.com/watson)
 - [iMerit](https://imerit.net/)
 - [Immuta](https://www.immuta.com/)
@@ -120,19 +265,115 @@ To Be Reviwed
 - [Insilico Medicine](https://insilico.com/)
 - [Intellegens](https://intellegens.ai/)
 - [Intuition Robotics](https://www.intuitionrobotics.com/)
+
+
+- Infervision
+- Infermedica
+- Insightful Science
+- InData Labs
+- Invivoo
+- Intelligent Voice
+- Iris Automation
+- Inbenta
+- Intelygenz
+- Invoca
+- Ivalua
+- Inpher
+- Infrrd
+- Innovaccer
+- Integromat
+- iManage
+- Inmind.ai
+- Innovusion
+- Insights.AI
+- Instart Logic
+- Intellimize
+- Intellimind
+
+
 - [Jivox](https://www.jivox.com/)
+- Jukin Media - Uses AI to analyze and curate user-generated video content
+- JASK - Provides an AI-powered security operations platform for enterprises
+- Jumio - An AI-powered identity verification and authentication solution
+- Jetlore - An AI-based personalization platform for e-commerce
+- Jina AI - An open-source neural search framework for building AI-powered search systems
+- Janrain - Offers an AI-driven customer identity and access management platform
+- Jumbotail - An AI-powered online marketplace for grocery and food products in India
+- Jvion - Provides an AI-enabled clinical decision support platform for healthcare organizations
+- JumpMind - An AI-powered data integration platform
+- Joonko - An AI-powered diversity and inclusion platform for businesses
+- Juji - Provides AI-powered chatbot solutions for businesses
+- Joveo - An AI-based programmatic job advertising platform
+- Jirav - AI-powered financial planning and analysis solution
+- Jumprope - AI-powered video creation and editing platform
+
 - [KAI](https://kai.ai/)
 - [Kaskada](https://www.kaskada.com/)
 - [Kinetica](https://www.kinetica.com/)
 - [Kira Systems](https://kirasystems.com/)
 - [Kneron](https://www.kneron.us/)
 - [KNIME](https://www.knime.com/)
+- - KAI Analytics (https://www.kai.ai/)
+- KAI OS (https://www.kaiostech.com/)
+- KAIROS (https://www.kairos.com/)
+- KALIDO.AI (https://www.kalido.ai/)
+- Klevu (https://klevu.com/)
+- KONUX (https://www.konux.com/)
+- KONTENTO (https://www.kontento.be/)
+- KONTEXTUAL (https://kontextual.tech/)
+- KONTEXTO (https://www.kontexto.ai/)
+- Kraydel (https://www.kraydel.com/)
+- Kriptos (https://kriptos.com/)
+- Kryon Systems (https://www.kryonsystems.com/)
+- Kubeflow (https://www.kubeflow.org/)
+- KUNGFU.AI (https://www.kungfu.ai/)
+- KeyReply AI Chatbot (https://www.keyreply.com/chatbot/)
+- KiwiTech (https://kiwitech.com/)
+- Klue (https://klue.com/)
+- Kyndi (https://kyndi.com/)
+
 - [Lilt](https://lilt.com/)
 - [Lobe](https://lobe.ai/)
 - [Logically](https://logically.ai/)
 - [Loop AI Labs](https://loop.ai/)
 - [Lucidworks](https://lucidworks.com/)
 - [Luminoth](https://luminoth.ai/)
+- - LALPINA Hydrogen
+- Labs8
+- Landing AI
+- Le Wagon
+- LevaData
+- LendBuzz
+- Lifebit
+- Lingk
+- Liris AI
+- LogicAI
+- Logical Clocks
+- Lobster
+- Luminance
+- Luminoso Technologies
+- Lukso
+- Layer 6 AI
+- Levatas
+- Lumiata
+- Lattice Data
+- Likan Patra
+- Loccioni
+- LogiNext
+- Lunit
+- Luminar
+- Leafully
+- Lyrebird AI
+- Labellerr
+- Lobeck Medical AG
+- Linguix
+- Lingoda
+- Loom.ai
+- Ludwig
+- Lynx Analytics
+- Logz.io
+- Lumen5
+
 - [MachineBox](https://machinebox.io/)
 - [MachineMax](https://www.machinemax.com/)
 - [Malong Technologies](https://www.malong.com/)
@@ -149,12 +390,70 @@ To Be Reviwed
 - [Moveworks](https://www.moveworks.ai/)
 - [Mphasis DeepInsights](https://www.mphasis.com/deepinsights)
 - [Myelin Foundry](https://www.myelinfoundry.com/)
+- - MarianaIQ (https://www.marianaiq.com/)
+- MemSQL (https://www.memsql.com/)
+- Metamaven (http://www.metamaven.com/)
+- Mirriad (https://www.mirriad.com/)
+- MoBagel (https://www.mobagel.com/)
+- Modulate (https://modulate.ai/)
+- Molten (https://molten.ai/)
+- Morpheus Labs (https://morpheuslabs.io/)
+- Mosaix (https://www.mosaix.ai/)
+- Motiwise (https://www.motiwise.ai/)
+- MuseNet (https://openai.com/blog/musenet/)
+- MyndYou (https://www.myndyou.com/)
+- MindFoundry
+- MindsDB
+- Mojiworks
+- MorphL
+- Musimap
+- MonkeyLearn
+- Moodbit
+- Mosaic Smart Data
+- Mozart Data
+- Multiverse
+- Mythic
+- Magic Leap
+- MapR Technologies
+- MarkLogic
+- MathWorks
+- Mavenir Systems
+- MaxQ AI
+- Merlon Intelligence
+- MetaMind
+- MicroStrategy
+- MindBridge Analytics
+- MindMeld
+- MindTitan
+- Minitab
+- MioTech
+
 - [Nauto](https://www.nauto.com/)
 - [Neurala](https://www.neurala.com/)
 - [NeuroFlow](https://www.neuroflow.com/)
 - [Neuton AI](https://neuton.ai/)
 - [NLP Cloud](https://nlpcloud.io/)
 - [NVIDIA](https://www.nvidia.com/)
+- Nanit
+- Nanonets (https://nanonets.com/)
+- Nanowear
+- Narrative Science
+- NautoAI (https://nautoai.com/)
+- NeuralBay (https://neuralbay.com/)
+- Neurable
+- Neurocom
+- Neurophate
+- Nexar
+- Nimbella (https://nimbella.com/)
+- Nintecore
+- Niramai
+- NLP Logix
+- NLPBots
+- Node
+- Nuance
+- Nucleai (https://www.nucleaimd.com/)
+- Nuburu (https://www.nuburu.net/)
+
 - [OJO Labs](https://www.ojolabs.com/)
 - [One Concern](https://www.oneconcern.com/)
 - [OneClick.ai](https://oneclick.ai/)
