@@ -38,6 +38,26 @@ To Be Reviwed
 - [Ava Robotics](https://www.avarobotics.com/)
 - [Aviso AI](https://www.aviso.com/)
 - [Ayasdi](https://www.ayasdi.com/)
+- Acuity Trading
+- AdTheorent
+- Agolo
+- Aibrain
+- AIconex Solutions
+- Aira Matrix
+- Akkio
+- AlphaSense
+- Altum AI
+- Amenity Analytics
+- Anodot
+- Appen
+- AppFolio AI
+- Appier
+- AppTek
+- ArchIntel
+- Arize AI
+- Ascent.ai
+- Aspire IQ
+- Automaton AI
 - [Baidu](https://www.baidu.com/)
 - [Banuba](https://www.banuba.com/)
 - [BenevolentAI](https://benevolent.ai/)
