@@ -460,6 +460,30 @@ To Be Reviwed
 - [OpenAI](https://openai.com/)
 - [Optibus](https://www.optibus.com/)
 - [Osaro](https://osaro.com/)
+- Ohi AI: https://ohi.ai/
+- ObjectBox: https://objectbox.io/
+- Observify: https://www.observify.com/
+- Observe.AI: https://www.observe.ai/
+- Oliver.ai: https://oliver.ai/
+- OmniSci: https://www.omnisci.com/
+- Onfido: https://onfido.com/
+- Onshape: https://www.onshape.com/
+- OpenCV: https://opencv.org/
+- OpenGov: https://opengov.com/
+- OpenText: https://www.opentext.com/
+- Optibus: https://www.optibus.com/
+- Optimizely: https://www.optimizely.com/
+- Orbital Insight: https://orbitalinsight.com/
+- Orbital Socket: https://orbitalsocket.com/
+- Orbbec: https://orbbec3d.com/
+- Orchestra: https://www.orchestrate.ai/
+- Objectivity: https://www.objectivity.co.uk/
+- Osirium: https://osirium.com/
+- Owkin: https://owkin.com/
+- Osmo: https://www.playosmo.com/
+- Oxbotica: https://www.oxbotica.com/
+- Ozlo: (Acquired by Facebook)
+
 - [Pachyderm](https://www.pachyderm.com/)
 - [Paperspace](https://www.paperspace.com/)
 - [ParallelM](https://www.parallelm.com/)
@@ -476,10 +500,67 @@ To Be Reviwed
 - [Prometeo](https://www.prometeo.tech/)
 - [Proximal Data](https://www.proximaldata.com/)
 - [Pymetrics](https://www.pymetrics.com/)
+- Pachyderm
+- Paperspace
+- ParallelM
+- PathAI
+- PaveAI (https://www.paveai.com/)
+- Peak AI (https://www.peak.ai/)
+- Perception Box (https://www.perceptionbox.io/)
+- PerceptiLabs (https://perceptilabs.com/)
+- PerfitAI (https://perfit.ai/)
+- Peritus.ai
+- People.AI
+- Petuum
+- Phrasee
+- Pienso
+- Pinpoint Predictive (https://pinpointpredictive.com/)
+- Playment
+- PlumeAI (https://www.plumeai.com/)
+- PocketConfidant AI
+- PolyAI
+- Primer (https://primer.ai/)
+- Prodigo
+- Prodigy (https://prodi.gy/)
+- Prometeo
+- Proximie (https://proximie.com/)
+- Prowler.io (https://www.prowler.io/)
+- Predata (https://www.predata.com/)
+- Premonition (https://premonition.ai/)
+- Previse (https://previ.se/)
+- Primed (https://primed.ai/)
+- PyTorch (https://pytorch.org/)
+- Pylon AI (https://pylon.ai/)
+- Pypestream (https://www.pypestream.com/)
+- Pythia
+- Persado (https://www.persado.com/)
+- PlumeAI (https://www.plumeai.com/)
+- Primer.ai (https://primer.ai/)
+- PredictHQ (https://www.predicthq.com/)
+- Premonition (https://premonition.ai/)
+- Prowler.io (https://www.prowler.io/)
+- Proximie (https://proximie.com/)
+- Pylon AI (https://pylon.ai/)
+- Pypestream (https://www.pypestream.com/)
+
 - [Qatalog](https://qatalog.com/)
 - [Qntfy](https://qntfy.com/)
 - [Quid](https://quid.com/)
 - [Quill](https://www.quill.org/)
+- QiO Technologies
+- Quantemplate
+- Qloo - a machine learning platform that analyzes customer data to discover insights and make predictions about consumer behavior.
+- Qmind
+- Qrativ
+- Quickpath - A platform that helps organizations automate customer service and support through AI-powered chatbots. 
+- Quidnet Energy - An AI-powered energy storage solution provider that uses machine learning algorithms to optimize the use of renewable energy sources. 
+- Quod AI - An AI-powered platform that helps companies automate legal tasks such as contract analysis and review.
+- Qeexo - An AI company that specializes in developing machine learning models for edge computing devices and on-device ML for mobile and IoT devices. 
+- Quilt AI - An AI-powered platform that helps companies gain insights from unstructured data using natural language processing and machine learning.
+- Qognify - An AI and video analytics software company that provides physical security and surveillance solutions.
+- Qlearsite - An AI platform that provides people analytics and insights to help companies make data-driven decisions about their workforce.
+- Qordoba - An AI-powered content intelligence platform that helps organizations create and manage consistent and effective messaging across all channels.
+
 - [Rainbird](https://rainbird.ai/)
 - [RapidMiner](https://rapidminer.com/)
 - [Realtime Robotics](https://www.rtr.ai/)
@@ -492,6 +573,30 @@ To Be Reviwed
 - [Roam Analytics](https://www.roamanalytics.ai/)
 - [Robust Intelligence](https://robustintelligence.com/)
 - [Robovision](https://robovision.ai/)
+- Rage Frameworks
+- Rasa
+- Receptiviti
+- Receptiviti Insights
+- Refinitiv Labs
+- Rescale
+- Retention Science
+- Rev.com
+- RightIndem
+- Riminder
+- Rulai
+- Relativity6
+- Remesh
+- Resonai
+- Replex
+- Reverie Labs
+- Recime
+- Reduct
+- Robotiq
+- REDspace
+- Reinforcement Learning Group
+- Reminiz
+- Ruum
+
 - [Suki.AI](https://suki.ai/)
 - [Sukiennice](https://sukiennice.ai/)
 - [Suki.AI](https://suki.ai/)
