@@ -1,0 +1,566 @@
+### Artificial Intelligence
+
+* Natural Language Processing (NLP)
+    * Amazon Lex
+    * Google Cloud Natural Language API
+    * IBM Watson Natural Language Understanding
+    * Microsoft Azure Cognitive Services - Text Analytics
+    * Rasa
+    * Stanford CoreNLP
+    * spaCy
+    * OpenAI GPT-3
+* Computer Vision (CV)
+    * Amazon Rekognition
+    * Google Cloud Vision API
+    * IBM Watson Visual Recognition
+    * Microsoft Azure Cognitive Services - Computer Vision
+    * Clarifai
+    * DeepVision
+    * OpenCV
+    * TensorFlow
+* Machine Learning (ML)
+    * Amazon SageMaker
+    * Google Cloud ML Engine
+    * IBM Watson Studio
+    * Microsoft Azure Machine Learning Studio
+    * DataRobot
+    * Domino Data Lab
+    * H2O.ai
+    * KNIME
+* Speech Recognition (SR)
+    * Amazon Transcribe
+    * Google Cloud Speech-to-Text
+    * IBM Watson Speech to Text
+    * Microsoft Azure Cognitive Services - Speech Services
+    * Nuance Dragonfly
+    * Kaldi
+    * Julius
+* Speech Synthesis (SS)
+    * Amazon Polly
+    * Google Cloud Text-to-Speech
+    * IBM Watson Text to Speech
+    * Microsoft Azure Cognitive Services - Speech Services
+    * Cepstral
+    * Festvox
+    * Festival
+* Machine Translation (MT)
+    * Google Translate
+    * Microsoft Translator
+    * Amazon Translate
+    * IBM Watson Language Translation
+    * Systran
+    * SDL Trados
+    * Memsource
+
+### Autonomous Vehicles
+
+* Self-Driving Cars
+    * Waymo
+    * Uber ATG
+    * Cruise
+    * Argo AI
+    * Pony.ai
+    * Baidu Apollo
+    * Tesla Autopilot
+    * Toyota Guardian
+    * Nissan ProPilot
+    * General Motors Super Cruise
+* Robotics
+    * Boston Dynamics
+    * iRobot
+    * DJI
+    * Parrot
+    * Anki
+    * Lego
+    * Ubtech
+    * SoftBank Robotics
+    * Honda Asimo
+    * Hyundai's walking robot
+
+### Healthcare
+
+* Drug Discovery
+    * Atomwise
+    * Exscientia
+    * Insilico Medicine
+    * Recursion Pharmaceuticals
+    * GSK
+    * Pfizer
+    * Merck
+    * Novartis
+    * AstraZeneca
+* Medical Imaging
+    * Zebra Medical Vision
+    * Aidoc
+    * Arterys
+    * Enlitic
+    * Qure.ai
+    * Viz.ai
+    * Butterfly Network
+    * GE Healthcare
+    * Philips Healthcare
+    * Siemens Healthineers
+* Personalized Medicine
+    * Flatiron Health
+    * Foundation Medicine
+    * Guardant Health
+    * Natera
+    * Myriad Genetics
+    * Illumina
+    * Thermo Fisher Scientific
+    * Danaher
+    * Roche
+* Healthcare IT
+    * Epic Systems
+    * Cerner
+    * Allscripts
+    * Athenahealth
+    * McKesson
+    * IBM Watson Health
+    * Microsoft HealthVault
+    * Google Health
+    * Apple Health
+
+### Finance
+
+* Fraud Detection
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * OneSpan
+    * Fiserv
+    * FIS
+* Risk Management
+    * Moody's Analytics
+    * S&P Global Market Intelligence
+    * Fitch Solutions
+    * MSCI
+    * Barra
+    * IHS Markit
+    * Oliver Wyman
+    * McKinsey & Company
+    * Boston Consulting Group
+* Wealth Management
+    * BlackRock
+    * Vanguard Group
+    * State Street Corporation
+    * Fidelity Investments
+    * JPMorgan Chase
+    * Bank of America
+    * Wells Fargo
+    * Citigroup
+    * Morgan Stanley
+* Insurance
+    * Lemonade
+    * Oscar Health
+    * Clover Health
+    * Bright Health
+    * Assurant
+    * Progressive
+    * Geico
+    * State Farm
+    * Allstate
+
+### Retail
+
+* Personalization
+    * Amazon Personalize
+    * Google Cloud Recommendations AI
+    * IBM Watson Commerce
+    * Microsoft Azure Personalization Service
+    * Evergage
+    * Braze
+    * Optimizely
+    * Acquisio
+    * Visual IQ
+* Recommendation Engines
+    * Netflix
+    * Amazon Prime Video
+    * Hulu
+    * Disney+
+    * HBO Max
+    * Apple TV+
+    * Peacock
+* Fraud Detection
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * OneSpan
+    * Fiserv
+    * FIS
+* Energy
+    * Siemens
+    * GE
+    * ABB
+    * Schneider Electric
+    * Honeywell
+    * Emerson Electric
+    * Eaton
+    * Rolls-Royce
+    * General Electric
+* Transportation
+    * Uber
+    * Lyft
+    * Waymo
+    * Cruise
+    * Argo AI
+    * Pony.ai
+    * Baidu Apollo
+    * Tesla
+    * Toyota
+    * Nissan
+* Government
+    * DARPA
+    * NASA
+    * NSF
+    * NIH
+    * DoD
+    * DoE
+    * DHS
+    * FBI
+    * CIA
+
+### Agriculture
+
+* Precision Farming
+    * John Deere
+    * Case IH
+    * New Holland
+    * Agco
+    * Raven Industries
+    * Trimble
+    * Monsanto
+    * BASF
+    * Bayer
+* Sustainable Agriculture
+    * Indigo Ag
+    * Terrapass
+    * Carbonfund.org
+    * Verra
+    * Ecosystem Marketplace
+    * Climate Action Reserve
+    * Gold Standard
+    * Plan Vivo
+
+### Logistics
+
+* Freight Transportation
+    * UPS
+    * FedEx
+    * DHL
+    * Nippon Express
+    * Kuehne + Nagel
+    * DB Schenker
+    * CMA CGM
+    * MSC
+    * Maersk
+* Warehouse Management
+    * Amazon Robotics
+    * Kiva Systems
+    * GreyOrange
+    * Locus Robotics
+    * Starship Technologies
+    * Nuro
+    * Matternet
+    * Flirtey
+    * Zipline
+
+### Retail
+
+* Personalization
+    * Amazon Personalize
+    * Google Cloud Recommendations AI
+    * IBM Watson Commerce
+    * Microsoft Azure Personalization Service
+    * Evergage
+    * Braze
+    * Optimizely
+    * Acquisio
+    * Visual IQ
+* Recommendation Engines
+    * Netflix
+    * Amazon Prime Video
+    * Hulu
+    * Disney+
+    * HBO Max
+    * Apple TV+
+    * Peacock
+    * Paramount+
+    * YouTube TV
+* Fraud Detection
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * OneSpan
+    * Fiserv
+    * FIS
+
+### Telecommunications
+
+* Network Management
+    * Nokia
+    * Ericsson
+    * Huawei
+    * ZTE
+    * Cisco
+    * Arista Networks
+    * Juniper Networks
+    * Cambium Networks
+    * Mimosa Networks
+* Customer Experience
+    * Oracle
+    * Salesforce
+    * IBM
+    * SAP
+    * Avaya
+    * NICE
+    * Verint
+* Security
+    * Check Point
+    * Palo Alto Networks
+    * Symantec
+    * McAfee
+    * Fortinet
+    * Cisco
+    * IBM
+    * Intel
+    * Nvidia
+
+### Utilities
+
+* Energy
+    * Siemens
+    * GE
+    * ABB
+    * Schneider Electric
+    * Honeywell
+    * Emerson Electric
+    * Eaton
+    * Rolls-Royce
+    * General Electric
+* Water
+    * Xylem
+    * Siemens
+    * GE
+    * Doosan Infracore
+    * Grundfos
+    * KSB
+    * Flowserve
+    * Sulzer
+    * ITT
+* Wastewater
+    * Veolia Environnement
+    * Suez
+    * AECOM
+    * CH2M Hill
+    * Arcadis
+    * Jacobs Engineering
+    * AECOM
+    * Atkins
+    * Mott MacDonald
+
+### Travel and Hospitality
+
+* Customer Service
+    * LivePerson
+    * Genesys
+    * Oracle
+    * Salesforce
+    * IBM
+    * SAP
+    * Avaya
+    * NICE
+    * Verint
+* Recommendation Engines
+    * Netflix
+    * Amazon Prime Video
+    * Hulu
+    * Disney+
+    * HBO Max
+    * Apple TV+
+    * Peacock
+    * Paramount+
+    * YouTube TV
+* Fraud Detection
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * Feedzai
+    * Forter
+    * Sift Science
+    * Signifyd
+    * OneSpan
+### Other
+
+* Education
+    * Knewton
+    * Pearson
+    * Chegg
+    * McGraw-Hill Education
+    * Houghton Mifflin Harcourt
+    * Wiley
+    * Cengage Learning
+    * Pearson Education
+    * Houghton Mifflin Harcourt
+* Non-profit
+    * The Bill & Melinda Gates Foundation
+    * The Rockefeller Foundation
+    * The Open Philanthropy Project
+    * The Chan Zuckerberg Initiative
+    * The Wellcome Trust
+    * The Nature Conservancy
+    * Conservation International
+    * World Wildlife Fund
+    * The World Resources Institute
+
+### Sports
+
+* Fantasy Sports
+    * DraftKings
+    * FanDuel
+    * Yahoo! Fantasy Sports
+    * ESPN Fantasy Sports
+    * CBS Sports Fantasy Sports
+    * NFL Fantasy Football
+    * NBA Fantasy Basketball
+    * MLB Fantasy Baseball
+    * NHL Fantasy Hockey
+* Sports Betting
+    * DraftKings
+    * FanDuel
+    * William Hill
+    * BetMGM
+    * Caesars Entertainment
+    * Penn National Gaming
+    * Boyd Gaming
+    * MGM Resorts International
+    * Wynn Resorts
+
+### Technology
+
+* Cloud Computing
+    * Amazon Web Services (AWS)
+    * Microsoft Azure
+    * Google Cloud Platform (GCP)
+    * Alibaba Cloud
+    * IBM Cloud
+    * Oracle Cloud
+    * Salesforce
+    * SAP
+* Data Science
+    * Databricks
+    * Domino Data Lab
+    * H2O.ai
+    * KNIME
+    * MathWorks
+    * SAS
+    * Tibco Software
+    * Teradata
+### Miscellaneous
+
+* Legal
+    * Baker Botts
+    * Cooley LLP
+    * Kirkland & Ellis
+    * Latham & Watkins
+    * Mayer Brown
+    * Morgan Lewis
+    * Orrick, Herrington & Sutcliffe
+    * Paul, Weiss, Rifkind, Wharton & Garrison
+    * Skadden, Arps, Slate, Meagher & Flom
+* Marketing
+    * FleishmanHillard
+    * Edelman
+    * Weber Shandwick
+    * Ogilvy
+    * McCann Erickson
+    * Leo Burnett
+    * Publicis Groupe
+    * Omnicom Group
+    * Interpublic Group
+* Public Relations
+    * Edelman
+    * Weber Shandwick
+    * FleishmanHillard
+    * Ogilvy
+    * McCann Erickson
+    * Leo Burnett
+    * Publicis Groupe
+    * Omnicom Group
+    * Interpublic Group
+* Research
+    * Gartner
+    * Forrester Research
+    * IDC
+    * IHS Markit
+    * McKinsey & Company
+    * Boston Consulting Group
+    * Bain & Company
+    * Oliver Wyman
+    * Deloitte
+* Strategy
+    * McKinsey & Company
+    * Boston Consulting Group
+    * Bain & Company
+    * Oliver Wyman
+    * Deloitte
+* Venture Capital
+    * Andreessen Horowitz
+    * Sequoia Capital
+    * Accel Partners
+    * Greylock Partners
+    * Tiger Global Management
+    * Kleiner Perkins Caufield & Byers
+    * Mayfield Fund
+    * Redpoint Ventures
+    * Benchmark Capital
+* Investment Banking
+    * Goldman Sachs
+    * Morgan Stanley
+    * JPMorgan Chase
+    * Bank of America
+    * Citigroup
+    * Barclays
+    * Credit Suisse
+    * Deutsche Bank
+    * UBS
+* Private Equity
+    * Blackstone Group
+    * Carlyle Group
+    * Kohlberg Kravis Roberts & Co. (KKR)
+    * TPG Capital
+    * Apollo Global Management
+    * Bain Capital
+    * The Blackstone Group
+    * Carlyle Group
+    * Kohlberg Kravis Roberts & Co. (KKR)
+    * TPG Capital
+    * Apollo Global Management
+    * Bain Capital
+
+
+### Sectors where AI can be used
+
+| Sector | Use cases |
+|---|---|
+| Agriculture | Precision farming, weed control, disease detection |
+| Manufacturing | Robotics, quality control, logistics |
+| Construction | Prefabrication, robotics, scheduling |
+| Retail | Personalization, recommendations, fraud detection |
+| Media and entertainment | Content creation, distribution, advertising |
