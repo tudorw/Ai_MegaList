@@ -130,61 +130,75 @@
 - [Avanseus](https://www.avanseus.com/)
 - [Azure AI](https://azure.microsoft.com/en-us/services/cognitive-services/ai-fundamentals/)
 
-- 
-- Baidu (https://www.baidu.com/)
-- Bambuser (https://bambuser.com/)
-- Banjo (https://banjo.com/)
-- Banuba (https://www.banuba.com/)
-- Bartle Bogle Hegarty (BBH) (https://www.bartleboglehegarty.com/)
-- Basis Technology (https://www.basistech.com/)
-- Beagle.ai
-- BenevolentAI (https://benevolent.ai/)
-- Berlin Innovation Ventures
-- Biodigital (https://www.biodigital.com/)
-- BioMind (https://www.biomind.ai/)
-- BioSymetrics (https://www.biosymetrics.com/)
-- BioCatch (https://www.biocatch.com/)
-- Bitext (https://www.bitext.com/)
-- Bitmoji (https://www.bitmoji.com/)
-- Bitvore (https://bitvore.com/)
-- Blinkist (https://www.blinkist.com/)
-- Blinkx (https://www.blinkx.com/)
-- Blue River Technology (https://www.bluerivertechnology.com/)
-- Blueshift (https://blueshift.com/)
-- BlueSense Networks
-- Bonsai AI (https://www.bons.ai/)
-- Bottlenose (https://www.bottlenose.com/)
-- Botpress (https://botpress.com/)
-- BotStar (https://www.botstar.com/)
-- BotsAndUs (https://botsandus.com/)
-- Box (https://www.box.com/)
-- BrainChip (https://www.brainchipinc.com/)
-- Brain Corp (https://www.braincorp.com/)
-- BrickHouse Security (https://www.brickhousesecurity.com/)
-- Bright.md (https://bright.md/)
-- Brightcove (https://www.brightcove.com/)
-- Brighter AI (https://brighter.ai/)
-- Bryter (https://bryter.com/)
-- Bubble (https://bubble.io/)
-- Bugsee
-- Bunch.ai (https://bunch.ai/)
-- BuntPlanet
-- Beyond Limits (https://www.beyond.ai/)
-- BeyondMinds (https://beyondminds.ai/)
-- Birdy AI (https://www.birdy.ai/)
-- BabbleLabs (https://www.babblelabs.com/)
-- Beintoo
+- [BabbleLabs](https://www.babblelabs.com/)
+- [Baidu](https://www.baidu.com/)
+- [Bambuser](https://bambuser.com/)
+- [Banjo](https://banjo.com/)
+- [Banuba](https://www.banuba.com/)
+- [Bartle Bogle Hegarty (BBH)](https://www.bartleboglehegarty.com/)
+- [Base64AI](https://base64.ai/)
+- [Beagle.ai](https://www.beagle.ai/)
+- [Beintoo](https://www.beintoo.com/)
+- [BenevolentAI](https://benevolent.ai/)
+- [Berlin Innovation Ventures](https://www.berlininnovationventures.com/)
+- [Biodigital](https://www.biodigital.com/)
+- [BioCatch](https://www.biocatch.com/)
+- [BioMind](https://www.biomind.ai/)
+- [BioSymetrics](https://www.biosymetrics.com/)
+- [Bitext](https://www.bitext.com/)
+- [Bitmoji](https://www.bitmoji.com/)
+- [Bitvore](https://bitvore.com/)
+- [Blinkist](https://www.blinkist.com/)
+- [Blinkx](https://www.blinkx.com/)
+- [Blue River Technology](https://www.bluerivertechnology.com/)
+- [Blueshift](https://blueshift.com/)
+- [BlueSense Networks](https://www.bluesensenetworks.com/)
+- [Bonsai AI](https://www.bons.ai/)
+- [Botpress](https://botpress.com/)
+- [BotStar](https://www.botstar.com/)
+- [BotsAndUs](https://botsandus.com/)
+- [Box](https://www.box.com/)
+- [Brain Corp](https://www.braincorp.com/)
+- [BrainChip](https://www.brainchipinc.com/)
+- [BrickHouse Security](https://www.brickhousesecurity.com/)
+- [Bright.md](https://bright.md/)
+- [Brightcove](https://www.brightcove.com/)
+- [Brighter AI](https://brighter.ai/)
+- [Bubble](https://bubble.io/)
+- [Bugsee](https://www.bugsee.com/)
+- [Bunch.ai](https://bunch.ai/)
+- [BuntPlanet](https://www.buntplanet.com/)
+- [Bryter](https://bryter.com/)
+- [Butterfly Network](https://www.butterflynetwork.com/)
+- [Beyond Limits](https://www.beyond.ai/)
+- [BeyondMinds](https://beyondminds.ai/)
+- [Birdy AI](https://www.birdy.ai/)
+- [Bottlenose](https://www.bottlenose.com/)
+
 
 
 
 - [C3.ai](https://c3.ai/)
+- [Cambridge Intelligence](https://cambridge-intelligence.com/)
 - [Cape Analytics](https://www.capeanalytics.com/)
+- [Caption Health](https://captionhealth.com/)
+- [Casetext](https://casetext.com/)
+- [Cerebras](https://www.cerebras.net/)
+- [Century Analytics](https://centuryanalytics.com/)
 - [Chaayos.ai](https://www.chaayos.ai/)
 - [Chorus.ai](https://www.chorus.ai/)
+- [Clarifai](https://www.clarifai.com/)
+- [Clarify Health](https://www.clarifyhealth.com/)
+- [ClarifyAI](https://www.clarify.ai/)
 - [ClearBrain](https://clearbrain.com/)
+- [Cleo](https://www.cleo.com/)
 - [Clinc](https://clinc.com/)
+- [CloudMinds](https://www.cloudminds.com/)
+- [CloudMedX Health](http://cloudmedxhealth.com/)
+- [CloudWalk](https://www.cloudwalk.cn/en/)
+- [Cohesive Al](https://www.cohesive.ai/)
 - [CognitiveScale](https://www.cognitivescale.com/)
-- [Cognitiveverse](https://cognitiveverse.com/)
+- [Cognitai](https://www.cogitai.com/)
 - [Cognitiveservices.ai](https://www.cognitiveservices.ai/)
 - [Cognitivesignals](https://www.cognitivesignals.com/)
 - [Cognitiveso](https://cognitiveso.com/)
@@ -194,26 +208,28 @@
 - [Cognitivespring](https://www.cognitivespring.com/)
 - [Cognitivesurplus](https://www.cognitivesurplus.com/)
 - [Cognitivix](https://cognitivix.ai/)
+- [Cognimates](https://cognimates.me/)
+- [Cognigy](https://www.cognigy.com/)
+- [Cognism](https://cognism.com/)
+- [Coherent Logix](http://www.coherentlogix.com/)
 - [Collaborative Drug Discovery (CDD)](https://www.collaborativedrug.com/)
 - [ComprehendAI](https://comprehend.ai/)
 - [Connected2Fiber](https://www.connected2fiber.com/)
 - [Consensus Networks](https://consensusnetworks.com/)
 - [Conversica](https://www.conversica.com/)
 - [Converseon](https://converseon.com/)
+- [Corti](https://corti.ai/)
 - [Cortical.io](https://cortical.io/)
 - [Coveo](https://www.coveo.com/)
 - [Creadits](https://creadits.com/)
 - [Creo](https://www.creo.ai/)
+- [Cropin](https://www.cropin.com/)
 - [CrowdFlower](https://www.crowdflower.com/)
+- [CrowdStrike](https://www.crowdstrike.com/)
 - [Cubic.ai](https://cubic.ai/)
 - [Cycorp](http://www.cyc.com/)
-- [Century Analytics](https://centuryanalytics.com/)
-- [Clarifai](https://www.clarifai.com/)
-- [ClarifyAI](https://www.clarify.ai/)
-- [CloudMinds](https://www.cloudminds.com/)
-- [CloudWalk](https://www.cloudwalk.cn/en/)
-- [Cambridge Intelligence](https://cambridge-intelligence.com/)
-- [Cogitai](https://www.cogitai.com/)
+- [Cybereason](https://www.cybereason.com/)
+
 
 - [Daisy Intelligence](https://daisyintelligence.com/)
 - [Databook](https://www.databook.com/)
@@ -860,18 +876,7 @@
 
 To Be Reviewed;
 
-- Casetext: https://casetext.com/
-- Chorus.ai: https://www.chorus.ai/
-- Clarifai: https://www.clarifai.com/
-- Clarify Health: https://www.clarifyhealth.com/
-- CloudMinds: https://www.cloudminds.com/
-- Cognimates: https://cognimates.me/
-- Cognigy: https://www.cognigy.com/
-- Cognism: https://cognism.com/
-- Cognitivescale: https://www.cognitivescale.com/
-- Conversica: https://www.conversica.com/
-- CrowdStrike: https://www.crowdstrike.com/
-- Cybereason: https://www.cybereason.com/
+
 - DARKTRACE: https://www.darktrace.com/
 - Datarobot: https://www.datarobot.com/
 - Dataiku: https://www.dataiku.com/
@@ -986,18 +991,7 @@ To Be Reviewed;
 Confirmed real'ish, with URL's, untested.
 
 
-- [Base64AI](https://base64.ai/)
-- [Blue River Technology](https://www.bluerivertechnology.com/)
-- [Butterfly Network](https://www.butterflynetwork.com/)
-- [Cape Analytics](https://www.capeanalytics.com/)
-- [Caption Health](https://captionhealth.com/)
-- [Cerebras](https://www.cerebras.net/)
-- [Cleo](https://www.cleo.com/)
-- [CloudMedX Health](http://cloudmedxhealth.com/)
-- [Cohesive Al](https://www.cohesive.ai/)
-- [Coherent Logix](http://www.coherentlogix.com/)
-- [Corti](https://corti.ai/)
-- [Cropin](https://www.cropin.com/)
+
 - [Dataiku](https://www.dataiku.com/)
 - [DataRobot](https://www.datarobot.com/)
 - [Deep Instinct](https://www.deepinstinct.com/)
