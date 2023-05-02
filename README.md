@@ -886,17 +886,48 @@ To Be Reviewed;
 - Drift: https://www.drift.com/
 - Drive.ai: https://www.drive.ai/
 - Dremio: https://www.dremio.com/
+- 
+- [Dataiku](https://www.dataiku.com/)
+- [DataRobot](https://www.datarobot.com/)
+- [Deep Instinct](https://www.deepinstinct.com/)
+- [Eightfold.ai](https://eightfold.ai/)
+- 
 - Element AI: https://www.elementai.com/
 - Embody: https://www.embodied.me/
 - Evolv: https://www.evolv.ai/
 - Exabeam: https://www.exabeam.com/
+- [Enlitic](https://www.enlitic.com/)
+- [Exa.ai](https://www.exa.ai/)
+- [FigmaAl](https://www.figma.com/)
+- [Fractal](https://fractal.ai/)
+- 
 - Falkonry: https://falkonry.com/
 - Freenome: https://www.freenome.com/
+- [G2 Crowd](https://www.g2.com/)
+- [Genesys](https://www.genesys.com/)
+- [Ghostwriter](https://ghostwriter-ai.com/)
+- [GleanAl](https://www.glean.com/)
+- [Google AI](https://ai.google/)
+- [Graphcore](https://www.graphcore.ai/)
+- [Guardant Health](https://www.guardanthealth.com/)
+- 
 - Gamalon: https://www.gamalon.com/
 - Gong: https://www.gong.io/
 - Grammarly: https://www.grammarly.com/
+[H2O.ai](https://www.h2o.ai/)
+- [Hereafter](https://www.hereafter.ai/)
+- [Hints Al](https://hints.so/)
+- [Hypotenuse Al](https://www.hypotenuse.ai/)
+-
 - H2O.ai: https://www.h2o.ai/
 - Hive: https://www.hive.io/
+-  [IBM](https://www.ibm.com/)
+- [Infosys](https://www.infosys.com/)
+- [InVision](https://www.invisionapp.com/)
+- [Insilico Medicine](https://insilico.com/)
+- [Intel](https://www.intel.com/)
+- [Intuitive Surgical](https://www.intuitive.com/)
+-
 - Idibon: No longer accessible
 - Imagia: https://imagia.com/
 - Infermedica: https://infermedica.com/
@@ -905,119 +936,7 @@ To Be Reviewed;
 - Iterative.ai:
 - iRobot - https://www.irobot.com/
 - Iterative.ai - https://iterative.ai/
-- JASK - No longer accessible
-- Jumio - https://www.jumio.com/
-- K Health - https://www.khealth.ai/
-- Kasisto - https://kasisto.com/
-- Kensho - https://www.spglobal.com/marketintelligence/en/campaigns/kensho/
-- Kite - https://www.kite.com/
-- Klevu - https://www.klevu.com/
-- Lattice Data - https://www.crunchbase.com/organization/lattice-data
-- Leanplum - https://www.leanplum.com/
-- Lilt - https://lilt.com/
-- Logz.io - https://logz.io/
-- Loop AI Labs - https://loop.ai/
-- MindMeld - https://www.mindmeld.com/
-- Moogsoft - https://www.moogsoft.com/
-- Mya Systems - https://www.mya.com/
-- Mythic - https://www.mythic-ai.com/
-- Nara Logics - https://www.naralogics.com/
-- Nauto - https://www.nauto.com/
-- Netradyne - https://www.netradyne.com/
-- Neurable - https://www.neurable.com/
-- Next IT - https://www.nextit.com/
-- Numerai - https://numer.ai/
-- Numenta - https://numenta.com/
-- Nutonomy - https://www.nutonomy.com/
-- Omilia - https://omilia.com/
-- OrCam - https://www.orcam.com/
-- Osmo - https://www.playosmo.com/
-- Oxagile - https://www.oxagile.com/
-- Oxbotica - https://www.oxbotica.com/
-- Pecan - https://pecan.ai/
-- People.ai - https://people.ai/
-- PerimeterX - https://www.perimeterx.com/
-- Persado - https://persado.com/
-- Petuum - https://www.petuum.com/
-- Peltarion - https://peltarion.com/
-- PathAI - https://www.pathai.com/
-- Predii - https://www.predii.com/
-- Primer AI - https://www.primer.ai/
-- Rainbird - https://rainbird.ai/
-- RapidMiner - https://rapidminer.com/
-- Recursion Pharmaceuticals - https://www.recursionpharma.com/
-- Replicant - https://www.replicant.ai/
-- Rasa - https://rasa.com/
-- Rekognition - https://aws.amazon.com/rekognition/
-- Remesh - https://remesh.ai/
-- RocketFuel - https://rocketfuel.com/
-- Rulai - https://www.rulai.com/
-- Sift - https://sift.com/
-- Sight Machine - https://sightmachine.com/
-- SightCall - https://sightcall.com/
-- Sorcerro - https://www.sorcerro.com/
-- Suki.AI - https://suki.ai/
-- Sensely - https://www.sensely.com/
-- Scale AI - https://scale.com/
-- Seventh Sense - https://www.theseventhsense.com/
-- Shift Technology - https://www.shift-technology.com/
-- Skytree - https://www.skytree.net/
-- Snorkel AI - https://www.snorkel.ai/
-- SoundHound - https://www.soundhound.com/
-- SparkCognition - https://www.sparkcognition.com/
-- Stradigi AI - https://www.stradigi.ai/
-- Syntiant: https://www.syntiant.com/
-- Talla: https://talla.com/
-- Tessian: https://www.tessian.com/
-- Textio: https://textio.com/
-- ThoughtSpot: https://www.thoughtspot.com/
-- Tractable: https://www.tractable.ai/
-- TruSTAR: https://www.trustar.co/
-- True Fit: https://www.truefit.com/
-- Turing: https://www.turing.com/
-- UiPath: https://www.uipath.com/
-- Unbabel: https://unbabel.com/
-- Uniphore: https://www.uniphore.com/
-- Uptake: https://www.uptake.com/
-- Vicarious: https://www.vicarious.com/
-- Vidado: https://vidado.ai/
-- Viv Labs: https://viv.ai/
-- Vymo: https://getvymo.com/
-- Voyage: https://voyage.auto/
-- x.ai: https://x.ai/
-- Yseop: https://yseop.com/
-- Zest AI: https://zest.ai/
-
-Confirmed real'ish, with URL's, untested.
-
-
-
-- [Dataiku](https://www.dataiku.com/)
-- [DataRobot](https://www.datarobot.com/)
-- [Deep Instinct](https://www.deepinstinct.com/)
-- [Eightfold.ai](https://eightfold.ai/)
-- [Enlitic](https://www.enlitic.com/)
-- [Exa.ai](https://www.exa.ai/)
-- [FigmaAl](https://www.figma.com/)
-- [Fractal](https://fractal.ai/)
-- [G2 Crowd](https://www.g2.com/)
-- [Genesys](https://www.genesys.com/)
-- [Ghostwriter](https://ghostwriter-ai.com/)
-- [GleanAl](https://www.glean.com/)
-- [Google AI](https://ai.google/)
-- [Graphcore](https://www.graphcore.ai/)
-- [Guardant Health](https://www.guardanthealth.com/)
-- [H2O.ai](https://www.h2o.ai/)
-- [Hereafter](https://www.hereafter.ai/)
-- [Hints Al](https://hints.so/)
-- [Hypotenuse Al](https://www.hypotenuse.ai/)
-- [IBM](https://www.ibm.com/)
-- [Infosys](https://www.infosys.com/)
-- [InVision](https://www.invisionapp.com/)
-- [Insilico Medicine](https://insilico.com/)
-- [Intel](https://www.intel.com/)
-- [Intuitive Surgical](https://www.intuitive.com/)
-- [JFrog](https://jfrog.com/)
+-  [JFrog](https://jfrog.com/)
 - [Kapil Gupta](https://twitter.com/kapilguptabot)
 - [Keep](https://www.keep.land/)
 - [Kea](https://kea.ai/)
@@ -1126,6 +1045,93 @@ Confirmed real'ish, with URL's, untested.
 - [Yellowbrick Data](https://www.yellowbrick.com/)
 - [Zebra Technologies](https://www.zebra.com/)
 - [Zscaler](https://www.zscaler.com/)
+- JASK - No longer accessible
+- Jumio - https://www.jumio.com/
+- K Health - https://www.khealth.ai/
+- Kasisto - https://kasisto.com/
+- Kensho - https://www.spglobal.com/marketintelligence/en/campaigns/kensho/
+- Kite - https://www.kite.com/
+- Klevu - https://www.klevu.com/
+- Lattice Data - https://www.crunchbase.com/organization/lattice-data
+- Leanplum - https://www.leanplum.com/
+- Lilt - https://lilt.com/
+- Logz.io - https://logz.io/
+- Loop AI Labs - https://loop.ai/
+- MindMeld - https://www.mindmeld.com/
+- Moogsoft - https://www.moogsoft.com/
+- Mya Systems - https://www.mya.com/
+- Mythic - https://www.mythic-ai.com/
+- Nara Logics - https://www.naralogics.com/
+- Nauto - https://www.nauto.com/
+- Netradyne - https://www.netradyne.com/
+- Neurable - https://www.neurable.com/
+- Next IT - https://www.nextit.com/
+- Numerai - https://numer.ai/
+- Numenta - https://numenta.com/
+- Nutonomy - https://www.nutonomy.com/
+- Omilia - https://omilia.com/
+- OrCam - https://www.orcam.com/
+- Osmo - https://www.playosmo.com/
+- Oxagile - https://www.oxagile.com/
+- Oxbotica - https://www.oxbotica.com/
+- Pecan - https://pecan.ai/
+- People.ai - https://people.ai/
+- PerimeterX - https://www.perimeterx.com/
+- Persado - https://persado.com/
+- Petuum - https://www.petuum.com/
+- Peltarion - https://peltarion.com/
+- PathAI - https://www.pathai.com/
+- Predii - https://www.predii.com/
+- Primer AI - https://www.primer.ai/
+- Rainbird - https://rainbird.ai/
+- RapidMiner - https://rapidminer.com/
+- Recursion Pharmaceuticals - https://www.recursionpharma.com/
+- Replicant - https://www.replicant.ai/
+- Rasa - https://rasa.com/
+- Rekognition - https://aws.amazon.com/rekognition/
+- Remesh - https://remesh.ai/
+- RocketFuel - https://rocketfuel.com/
+- Rulai - https://www.rulai.com/
+- Sift - https://sift.com/
+- Sight Machine - https://sightmachine.com/
+- SightCall - https://sightcall.com/
+- Sorcerro - https://www.sorcerro.com/
+- Suki.AI - https://suki.ai/
+- Sensely - https://www.sensely.com/
+- Scale AI - https://scale.com/
+- Seventh Sense - https://www.theseventhsense.com/
+- Shift Technology - https://www.shift-technology.com/
+- Skytree - https://www.skytree.net/
+- Snorkel AI - https://www.snorkel.ai/
+- SoundHound - https://www.soundhound.com/
+- SparkCognition - https://www.sparkcognition.com/
+- Stradigi AI - https://www.stradigi.ai/
+- Syntiant: https://www.syntiant.com/
+- Talla: https://talla.com/
+- Tessian: https://www.tessian.com/
+- Textio: https://textio.com/
+- ThoughtSpot: https://www.thoughtspot.com/
+- Tractable: https://www.tractable.ai/
+- TruSTAR: https://www.trustar.co/
+- True Fit: https://www.truefit.com/
+- Turing: https://www.turing.com/
+- UiPath: https://www.uipath.com/
+- Unbabel: https://unbabel.com/
+- Uniphore: https://www.uniphore.com/
+- Uptake: https://www.uptake.com/
+- Vicarious: https://www.vicarious.com/
+- Vidado: https://vidado.ai/
+- Viv Labs: https://viv.ai/
+- Vymo: https://getvymo.com/
+- Voyage: https://voyage.auto/
+- x.ai: https://x.ai/
+- Yseop: https://yseop.com/
+- Zest AI: https://zest.ai/
+
+Confirmed real'ish, with URL's, untested.
+
+
+
 
 
 
