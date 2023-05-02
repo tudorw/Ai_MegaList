@@ -1128,7 +1128,6 @@ To Be Reviewed;
 - Yseop: https://yseop.com/
 - Zest AI: https://zest.ai/
 
-Confirmed real'ish, with URL's, untested.
 
 
 
