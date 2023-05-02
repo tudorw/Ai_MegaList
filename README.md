@@ -734,125 +734,122 @@
 - [TuSimple](https://www.tusimple.com/)
 - [Twilio](https://www.twilio.com/)
 
-
-- [UiPath](https://www.uipath.com/)
+- [Ubiquity6](https://ubiquity6.com/)
+- [Ufora](https://www.ufora.com/)
+- [Umbra](https://umbra3d.com/)
+- [Umbrella Network](https://umb.network/)
+- [Unacast](https://www.unacast.com/)
 - [Unbabel](https://unbabel.com/)
+- [Unearth Technologies](https://www.unearthlabs.com/) - an AI-powered platform for construction and infrastructure projects.
+- [Understand.ai](https://understand.ai/) - a provider of training and validation data for autonomous vehicles and other AI applications.
+- [Unleash.live](https://www.unleash.live/)
 - [Unlearn.AI](https://unlearn.ai/)
-- [Unsupervised](https://unsupervised.com/)
-- [Uptake](https://www.uptake.com/)
-- Ubiquity6
-- Umbo Computer Vision
-- Ufora
-- Unsupervised Labs
-- Upside AI
-- Unleash.live
-- Unearth Technologies - an AI-powered platform for construction and infrastructure projects.
-- UserTesting - a user research platform that uses AI and machine learning to provide user insights.
-- Unacast - a location data platform that uses AI to provide accurate and actionable location insights.
-- Umbra - an AI-powered visualization platform for creating high-fidelity 3D models and graphics.
-- Uptycs - a security analytics platform that uses ML to provide real-time threat detection and response.
-- Unima - an AI-based chatbot platform that helps businesses automate customer support.
-- UbiOps - an AI deployment platform that allows developers to deploy and scale their ML models.
-- Understand.ai - a provider of training and validation data for autonomous vehicles and other AI applications.
+- [Unsupervised](https://www.unsupervised.com/)
+- [Unsupervised Labs](https://www.unsupervised.com/labs)
+- [Upside AI](https://upsideai.com/)
+- [Uptycs](https://www.uptycs.com/) - a security analytics platform that uses ML to provide real-time threat detection and response.
+- [UserTesting](https://www.usertesting.com/) - a user research platform that uses AI and machine learning to provide user insights.
+- [UbiOps](https://ubiops.com/) - an AI deployment platform that allows developers to deploy and scale their ML models.
+- [Umbo Computer Vision](https://umbocv.ai/)
+- [UiPath](https://www.uipath.com/)
 
 - [Valohai](https://valohai.com/)
-- [VergeSense](https://www.vergesense.com/)
+- [Valla](https://valla.com/)
+- [VantageAI](https://www.vantageai.ai/)
+- [Vector AI](https://vector-ai.com/)
+- [Verbit](https://verbit.ai/)
+- [Verkada](https://www.verkada.com/)
+- [Verloop](https://verloop.io/)
+- [Veros Systems](https://www.verossystems.com/)
+- [Verusen](https://www.verusen.com/)
+- [Vic.ai](https://vic.ai/)
 - [Vicarious](https://www.vicarious.com/)
-- [Vidado](https://vidado.ai/)
+- [Vion Labs](https://www.vionlabs.com/)
 - [Viz.ai](https://www.viz.ai/)
+- [Vizion.ai](https://www.vizion.ai/)
+- [Voyager Labs](https://www.voyagerlabs.co/)
+- [Vynca](https://vyncahealth.com/)
 - [Vymo](https://getvymo.com/)
-- Valla
-- VantageAI
-- Vector AI
-- Verusen
-- Vic.ai
-- Vizion.ai
-- Volara
-- Voyager Labs
-- Vynce
-- Vyasa Analytics
-- Verloop (https://verloop.io/)
-- Verkada (https://www.verkada.com/)
-- Veros Systems (https://www.verossystems.com/)
-- Vion Labs (https://www.vionlabs.com/)
-- Verbit
-- Vynca
-- VantageAI
-- Vergesense
-- Vidado
-- Viz.ai
-- Vymo
+- [Vyasa Analytics](https://vyasa.com/)
 
-- [Wefox](https://www.wefox.com/)
+
+- [Wand](https://www.wandb.com/)
+- [Wandera](https://www.wandera.com/)
+- [Wavenet](https://www.wavenetuk.com/)
+- [Wayve](https://wayve.ai/)
+- [Wejo](https://www.wejo.com/)
+- [Weightless.ai](https://www.weightless.ai/)
+- [Weights and Biases](https://www.wandb.com/)
+- [Welligent](https://www.welligent.com/)
 - [WellSaid Labs](https://www.wellsaidlabs.com/)
-- Wand
-- Wandera
-- Wejo
-- Wia
-- Wavenet
-- Weightless.ai (https://www.weightless.ai/)
-- Weights and Biases (https://www.wandb.com/)
-- Welligent
-- Whetlab
-- Whispr
-- WhyLabs
-- Winding Tree
-- Wise
-- Wit.ai (https://wit.ai/)
-- Witbe
-- Within3
-- Wonder Workshop
-- Wondeur AI (https://wondeur.ai/)
-- WorkFusion (https://www.workfusion.com/)
-- Woven Planet Holdings
-- Wysdom.AI (https://www.wysdom.ai/)
-- Wolfram Alpha
-- Wolox
-- WaveAI (https://wave.ai/)
-- WiSAR Lab (https://www.wisar.ie/)
-- Wayve (https://wayve.ai/)
+- [Wenco International Mining Systems](https://www.wencomining.com/)
+- [Wever](https://www.wever.com/)
+- [WhaleLend](https://whalelend.com/)
+- [Whetlab](https://www.crunchbase.com/organization/whetlab)
+- [Whispr](https://whispr.ai/)
+- [WhyLabs](https://www.whylabs.ai/)
+- [Winding Tree](https://windingtree.com/)
+- [Wise](https://wise.com/)
+- [Wit.ai](https://wit.ai/)
+- [Witbe](https://www.witbe.net/)
+- [Within3](https://www.within3.com/)
+- [Woflow](https://woflow.ai/)
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Wolox](https://www.wolox.com.ar/)
+- [Wondeur AI](https://wondeur.ai/)
+- [WorkFusion](https://www.workfusion.com/)
+- [Woven Planet Holdings](https://www.woven-planet.global/)
+- [Wysdom.AI](https://www.wysdom.ai/)
+- [Wysa](https://www.wysa.io/)
+- [WaveAI](https://wave.ai/)
+- [WiSAR Lab](https://www.wisar.ie/)
+- [Wefox](https://www.wefox.com/)
+- [Wia](https://www.wia.io/)
 
-- [xnor.ai](https://www.xnor.ai/)
-- - XN Technologies
-- Xesto.ai
-- Ximilar
-- Xineoh
-- Xnor's AI2GO
-- Xnor's AI Edge Inference Platform
-- Xnor's AI Sensing Platform
-- Xpansiv
-- Xperiel
 
-- [Yseop](https://yseop.com/)
-- Yellow Messenger: A conversational AI platform for businesses to automate customer engagement.
-- Yitu Technology: A Chinese AI company that develops facial recognition technology for applications such as public safety and healthcare.
-- Yandex: A Russian technology company that offers a range of AI-powered services including search engines, speech recognition, and virtual assistants.
-- Yewno: An AI company that uses machine learning and natural language processing to analyze complex data and provide insights for financial, academic, and research institutions.
-- YuLife: An AI-powered life insurance company that incentivizes customers to make healthier choices through its app.
-- Yonder: An AI-powered social media intelligence platform for brand monitoring.
-- Yellowbox: An AI-powered chatbot platform for customer service.
-- Your.MD: An AI-powered personal health assistant app.
-- YuJa: An AI-powered enterprise video platform for education and corporate markets.
+- [Xesto.ai](https://xesto.ai/)
+- [Ximilar](https://www.ximilar.com/)
+- [Xineoh](https://www.xineoh.com/)
+- [Xnor.ai](https://www.xnor.ai/)
+- [Xnor's AI2GO](https://www.xnor.ai/ai2go/)
+- [Xnor's AI Edge Inference Platform](https://www.xnor.ai/edge-inference-platform/)
+- [Xnor's AI Sensing Platform](https://www.xnor.ai/ai-sensing-platform/)
+- [Xpansiv](https://xpansiv.com/)
+- [Xperiel](https://www.xperiel.com/)
 
-- Zebrium (https://zebrium.com/)
-- Zensed (https://zensed.com/)
-- Zest.ai (https://zest.ai/)
-- Zesty.ai (https://zesty.ai/)
-- Zenatix (https://zenatix.com/)
-- Zenify.ai (https://zenify.ai/)
-- Zensors (https://www.zensors.com/)
-- Zimperium (https://www.zimperium.com/)
-- ZineOne (https://www.zineone.com/)
-- ZingBox (https://www.zingbox.com/)
-- Zolostays (https://zolostays.com/)
-- Zoho (https://www.zoho.com/)
-- Zola Electric (https://www.zolaelectric.com/)
-- Zopa (https://www.zopa.com/)
-- ZorroSign (https://www.zorrosign.com/)
-- Zorroa Corp (https://zorroa.com/)
-- Zulama (https://www.zulama.com/)
-- Zumi (https://zumi.im/)
-- Zerofox (https://www.zerofox.com/)
+
+- [Yandex](https://yandex.com/): A Russian technology company that offers a range of AI-powered services including search engines, speech recognition, and virtual assistants.
+- [Yewno](https://www.yewno.com/): An AI company that uses machine learning and natural language processing to analyze complex data and provide insights for financial, academic, and research institutions.
+- [Yellow Messenger](https://yellowmessenger.com/): A conversational AI platform for businesses to automate customer engagement.
+- [Yellowbox](https://yellowbox.ai/): An AI-powered chatbot platform for customer service.
+- [Your.MD](https://www.your.md/): An AI-powered personal health assistant app.
+- [YuLife](https://www.yulife.com/): An AI-powered life insurance company that incentivizes customers to make healthier choices through its app.
+- [YuJa](https://www.yuja.com/): An AI-powered enterprise video platform for education and corporate markets.
+- [Yseop](https://www.yseop.com/): A natural language generation platform for enterprise customers.
+- [Yitu Technology](https://www.yitutech.com/): A Chinese AI company that develops facial recognition technology for applications such as public safety and healthcare.
+- [Yonder](https://www.yonder-ai.com/): An AI-powered social media intelligence platform for brand monitoring.
+
+
+- Zebrium [https://zebrium.com/]
+- Zensed [https://zensed.com/]
+- Zest [https://zest.ai/]
+- Zesty [https://zesty.ai/]
+- Zenatix [https://zenatix.com/]
+- Zenify [https://zenify.ai/]
+- Zensors [https://www.zensors.com/]
+- Zimperium [https://www.zimperium.com/]
+- ZineOne [https://www.zineone.com/]
+- ZingBox [https://www.zingbox.com/]
+- Zola Stays [https://zolostays.com/]
+- Zoho [https://www.zoho.com/]
+- Zola Electric [https://www.zolaelectric.com/]
+- Zopa [https://www.zopa.com/]
+- ZorroSign [https://www.zorrosign.com/]
+- Zorroa [https://zorroa.com/]
+- Zulama [https://www.zulama.com/]
+- Zumi [https://zumi.im/]
+- ZeroFOX [https://www.zerofox.com/]
+
 
 
 To Be Reviewed;
