@@ -172,26 +172,43 @@
 
 
 - [C3.ai](https://c3.ai/)
-- [Cognitivescale](https://www.cognitivescale.com/)
-- [Cortical.io](https://www.cortical.io/)
-- Clarifai
-- Comet.ml
-- Cambridge Intelligence
-- Cognitiveservices.ai
-- Cognitivesolutions
-- Cubic.ai
-- Cognitivescale
-- CloudMinds
-- Cognitivesystems
-- Cogitai
-- Comet.ml
-- Cognitivescale
-- Cortical.io
-- Cycorp
-- CrowdFlower
-- CloudWalk
-- Chaayos.ai
-- Cognitiv+
+- [Cape Analytics](https://www.capeanalytics.com/)
+- [Chaayos.ai](https://www.chaayos.ai/)
+- [Chorus.ai](https://www.chorus.ai/)
+- [ClearBrain](https://clearbrain.com/)
+- [Clinc](https://clinc.com/)
+- [CognitiveScale](https://www.cognitivescale.com/)
+- [Cognitiveverse](https://cognitiveverse.com/)
+- [Cognitiveservices.ai](https://www.cognitiveservices.ai/)
+- [Cognitivesignals](https://www.cognitivesignals.com/)
+- [Cognitiveso](https://cognitiveso.com/)
+- [Cognitivesolutions](https://www.cognitivesolutions.ca/)
+- [Cognitivespace](https://www.cognitivespace.com/)
+- [Cognitivespaces](https://www.cognitivespaces.com/)
+- [Cognitivespring](https://www.cognitivespring.com/)
+- [Cognitivesurplus](https://www.cognitivesurplus.com/)
+- [Cognitivix](https://cognitivix.ai/)
+- [Collaborative Drug Discovery (CDD)](https://www.collaborativedrug.com/)
+- [ComprehendAI](https://comprehend.ai/)
+- [Connected2Fiber](https://www.connected2fiber.com/)
+- [Consensus Networks](https://consensusnetworks.com/)
+- [Conversica](https://www.conversica.com/)
+- [Converseon](https://converseon.com/)
+- [Cortical.io](https://cortical.io/)
+- [Coveo](https://www.coveo.com/)
+- [Creadits](https://creadits.com/)
+- [Creo](https://www.creo.ai/)
+- [CrowdFlower](https://www.crowdflower.com/)
+- [Cubic.ai](https://cubic.ai/)
+- [Cycorp](http://www.cyc.com/)
+- [Century Analytics](https://centuryanalytics.com/)
+- [Clarifai](https://www.clarifai.com/)
+- [ClarifyAI](https://www.clarify.ai/)
+- [CloudMinds](https://www.cloudminds.com/)
+- [CloudWalk](https://www.cloudwalk.cn/en/)
+- [Cambridge Intelligence](https://cambridge-intelligence.com/)
+- [Cogitai](https://www.cogitai.com/)
+
 - [Daisy Intelligence](https://daisyintelligence.com/)
 - [Datafold](https://datafold.com/)
 - [DataRobot](https://www.datarobot.com/)
