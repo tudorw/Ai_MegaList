@@ -1,0 +1,119 @@
+Artificial Intelligence
+Natural Language Processing (NLP)
+Language Modeling
+Pre-trained Models (GPT, BERT, etc.)
+Word Embeddings (Word2Vec, GloVe, etc.)
+Sentiment Analysis
+Emotion Detection
+Aspect-based Sentiment Analysis
+Text Summarization
+Extractive Summarization
+Abstractive Summarization
+Named Entity Recognition
+Person, Organization, Location (PER, ORG, LOC)
+Entity Linking
+Coreference Resolution
+Anaphora Resolution
+Cataphora Resolution
+Dependency Parsing
+Constituency Parsing
+Semantic Role Labeling
+Question Answering
+Factoid Questions
+Non-factoid Questions
+Dialogue Systems
+Task-Oriented Dialogue Systems
+Chit-Chat Dialogue Systems
+Computer Vision (CV)
+Object Detection
+Single Stage Detectors (YOLO, SSD, etc.)
+Two Stage Detectors (Faster R-CNN, etc.)
+Image Recognition
+Image Classification
+Fine-grained Classification
+Image Segmentation
+Semantic Segmentation
+Instance Segmentation
+Panoptic Segmentation
+Facial Recognition
+Face Detection
+Face Alignment
+Face Identification
+Face Verification
+Human Pose Estimation
+2D Pose Estimation
+3D Pose Estimation
+Scene Understanding
+Scene Classification
+Scene Parsing
+Video Analysis
+Video Classification
+Action Recognition
+Object Tracking
+Machine Learning (ML)
+Supervised Learning
+Classification
+Binary Classification
+Multi-class Classification
+Regression
+Linear Regression
+Non-linear Regression
+Unsupervised Learning
+Clustering
+K-means Clustering
+Hierarchical Clustering
+Dimensionality Reduction
+Principal Component Analysis (PCA)
+t-distributed Stochastic Neighbor Embedding (t-SNE)
+Reinforcement Learning
+Model-free Methods
+Q-learning
+Deep Q-Network (DQN)
+Model-based Methods
+Monte Carlo Tree Search (MCTS)
+Dyna-Q
+Speech Recognition (SR)
+Automatic Speech Recognition (ASR)
+Acoustic Modeling
+Language Modeling
+Keyword Spotting
+Small-footprint Keyword Spotting
+Large-vocabulary Keyword Spotting
+Speaker Identification
+Speaker Verification
+Speaker Diarization
+Speech Synthesis (SS)
+Text-to-Speech (TTS)
+Concatenative TTS
+Parametric TTS
+Neural TTS (WaveNet, Tacotron, etc.)
+Voice Cloning
+One-shot Voice Cloning
+Few-shot Voice Cloning
+Singing Voice Synthesis
+Lyrics-to-Melody
+Lyrics-to-Audio
+Machine Translation (MT)
+Statistical Machine Translation (SMT)
+Phrase-based SMT
+Syntax-based SMT
+Neural Machine Translation (NMT)
+Encoder-Decoder Architecture
+Transformer Architecture
+Multilingual Translation
+Pivot-based Translation
+Zero-shot Translation
+
+- Artificial General Intelligence (AGI)
+    - Cognitive Architectures
+        - SOAR
+        - ACT-R
+    - Knowledge Representation and Reasoning
+        - Ontologies
+        - Description Logics
+    - Planning and Scheduling
+        - Hierarchical Task Network (HTN) Planning
+        - Partial-Order Planning
+    - Commonsense Reasoning
+        - Analogical Reasoning
+        - Causal Reasoning
