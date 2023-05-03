@@ -129,7 +129,62 @@
 - [Aviso AI](https://aviso.com)
 - [Avora](https://avora.com)
 - [Axiado](https://axiado.com)
-- [Azure AI](https://azure.microsoft.comen-usservicescognitive-servicesai-fundamentals)
+- [Azure AI](https://azure.microsoft.com/en-us/services/cognitive-services/ai-fundamentals) - AI and cognitive services platform from Microsoft.
+- [Ada Health](https://ada.com) - AI-powered health platform that provides personalized health assessments and care.
+- [AICure](https://www.aicure.com) - AI-driven platform for monitoring medication adherence and patient engagement.
+- [AiDoc Medical](https://www.aidoc.com) - AI-powered radiology assistant that helps identify critical findings in medical images.
+- [AiMed](https://aimed-md.com) - AI and machine learning solutions for medical imaging and diagnostics.
+- [AiR Healthcare Solutions](https://www.airhealthcare.com) - AI-driven solutions for the management of behavioral health and substance abuse disorders.
+- [AiSolve](https://www.aisolve.com) - AI-powered virtual reality training and simulation solutions for healthcare and other industries.
+- [Aiva Health](https://aivahealth.com) - AI-driven patient engagement platform that helps healthcare providers manage patient care.
+- [Akili Interactive](https://www.akiliinteractive.com) - AI-powered digital therapeutics for cognitive and mental health disorders.
+- [Akos](https://akosmd.com) - AI-driven telemedicine platform that connects patients with healthcare providers.
+- [Algolux Healthcare](https://www.algolux.com) - AI-powered computer vision technology for medical imaging and diagnostics.
+- [AlgoMedicine](https://algomedicine.com) - AI-driven platform for personalized medicine and drug discovery.
+- [Allergy Amulet](https://www.allergyamulet.com) - AI-powered wearable device that detects allergens in food.
+- [AllStripes Research](https://www.allstripes.com) - AI-driven platform that accelerates rare disease research by aggregating and analyzing medical records.
+- [Alpha Medical Clinic](https://www.alpha.clinic) - AI-powered platform for virtual primary care and women's health services.
+- [Altoida](https://www.altoida.com) - AI-driven platform for early detection of neurodegenerative diseases using digital biomarkers.
+- [Amalgam Rx](https://www.amalgamrx.com) - AI-powered digital therapeutics and patient support platform.
+- [Amper Health](https://www.amperhealth.com) - AI-driven platform for remote patient monitoring and healthcare analytics.
+- [Annum Health](https://www.annumhealth.com) - AI-driven digital platform for alcohol use disorder treatment.
+- [Apollo Neuroscience](https://www.apolloneuro.com) - AI-powered wearable device for stress management and mental wellbeing.
+- [Arcadia](https://www.arcadia.io) - AI-driven healthcare analytics and population health management platform.
+- [Arterys Medical](https://www.arterys.com) - AI-powered medical imaging platform for diagnostics and treatment planning.
+- [Arti Health](https://www.artihealth.com) - AI-driven platform for remote patient monitoring and telehealth services.
+- [Atrium Health](https://atriumhealth.org) - AI-driven platform for personalized medicine and clinical decision support.
+- [Augmedix](https://www.augmedix.com) - AI-powered remote medical scribe service for healthcare providers.
+- [Aural Analytics](https://www.auralanalytics.com) - AI-driven platform for speech analytics in clinical and research settings.
+- [Aiaioo Labs](https://www.aiaioo.com) - AI-driven platform for natural language processing and text analytics.
+- [Aimylogic](https://aimylogic.com) - AI-driven platform for creating chatbots and voice assistants.
+- [Aiva Labs](https://aivalabs.com) - AI-powered platform for creating interactive email campaigns.
+- [Algoworks](https://www.algoworks.com) - AI-driven software development and IT consulting company.
+- [Appenlighten](https://appen.com) - AI-driven platform for data annotation and natural language processing.
+- [Aptivio](https://www.aptiv.io) - AI-driven platform for sales and marketing intelligence.
+- [Arya.ai](https://arya.ai) - AI-driven platform for deep learning and artificial intelligence solutions.
+- [Aeye](https://www.aeye.ai) - AI-powered perception systems for autonomous vehicles.
+- [AImotive](https://www.aimotive.com) - AI-based software solutions for self-driving cars.
+- [Aipoly](https://www.aipoly.com) - AI-based visual recognition technology for autonomous vehicles.
+- [Alauda](https://alauda.io) - Autonomous vehicle software using AI and machine learning.
+- [Algolux](https://www.algolux.com) - AI-powered computer vision technology for autonomous vehicles.
+- [Ambarella](https://www.ambarella.com) - Computer vision processors and AI software for automotive applications.
+- [Aibee](https://www.aibee.com) - AI-driven platform for retail and customer insights.
+- [Aidera](https://www.aidera.ai) - AI-driven platform for data-driven decision making.
+- [AeyeGO](https://www.aeyego.com) - AI-driven platform for smart retail solutions.
+- [AImotive](https://www.aimotive.com) - AI-based software solutions for self-driving cars.
+- [Algolux](https://www.algolux.com) - AI-powered computer vision technology for autonomous vehicles.
+- [Ambarella](https://www.ambarella.com) - Computer vision processors and AI software for automotive applications.
+- [AnkiTech](https://www.ankitech.com) - AI-driven platform for robotic solutions and automation.
+- [AnyConnect](https://www.anyconnect.com) - AI-driven platform for video analytics and security solutions.
+- [Applitools](https://www.applitools.com) - AI-driven platform for automated visual testing of web and mobile applications.
+- [ArcSoft](https://www.arcsoft.com) - AI-driven platform for multimedia software solutions.
+- [Artomatix](https://artomatix.com) - AI-driven platform for 3D content creation.
+- [Arturo AI](https://arturo.ai) - AI-driven platform for property intelligence and risk management.
+- [Ascent AI](https://www.ascent.ai) - AI-driven platform for enterprise automation and data analytics.
+- [Astra](https://www.astra.ai) - AI-driven platform for satellite data analytics.
+- [Atricore](https://www.atricore.com) - AI-driven platform for identity and access management solutions.
+
+
 - [BabbleLabs](https://babblelabs.com)
 - [Baidu](https://baidu.com)
 - [Bambuser](https://bambuser.com)
