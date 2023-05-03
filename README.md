@@ -1071,6 +1071,441 @@
 - [Zulama ](zulama.com)
 - [Zumi ](zumi.im)
 
+Abacus.AI - Artificial Intelligence and Machine Learning
+ABEJA - Artificial Intelligence and Machine Learning
+Abreast AI - Artificial Intelligence and Machine Learning
+Accion Systems - Aerospace and Defense
+AccuHealth - Healthcare and Life Sciences
+Acobot - Artificial Intelligence and Machine Learning
+Acronotics - Artificial Intelligence and Machine Learning
+Acurable - Healthcare and Life Sciences
+Ada Support - Artificial Intelligence and Machine Learning
+Adarga - Artificial Intelligence and Machine Learning
+Adext AI - Marketing and Advertising
+AdiMap - Artificial Intelligence and Machine Learning
+Adqura - Marketing and Advertising
+AEye - Automotive and Transportation
+Affectiva - Artificial Intelligence and Machine Learning
+Agolo - Artificial Intelligence and Machine Learning
+AI.Reverie - Artificial Intelligence and Machine Learning
+Aibrain - Artificial Intelligence and Machine Learning
+AiCura - Healthcare and Life Sciences
+AiDAR Technologies - Aerospace and Defense
+Aidence - Healthcare and Life Sciences
+Aiderbotics - Robotics and Automation
+AiDoc - Healthcare and Life Sciences
+AiRo Digital Labs - Artificial Intelligence and Machine Learning
+AiScout - Artificial Intelligence and Machine Learning
+AiSense - Artificial Intelligence and Machine Learning
+Aisera - Customer Service and Support
+Aispeaking - Artificial Intelligence and Machine Learning
+Aispeech - Artificial Intelligence and Machine Learning
+Aiswift - Artificial Intelligence and Machine Learning
+AiTech Innovations - Artificial Intelligence and Machine Learning
+AITRICS - Healthcare and Life Sciences
+AiTrillion - E-commerce and Retail
+Aiva - Healthcare and Life Sciences
+Aivo - Customer Service and Support
+Akasha Imaging - Healthcare and Life Sciences
+Akkio - Artificial Intelligence and Machine Learning
+Al image Enlarger - Multimedia and Creative
+Al Lawyer - Legal and Compliance
+Al Picasso - Multimedia and Creative
+Alation - Data and Analytics
+Alegion - Artificial Intelligence and Machine Learning
+Alethea AI - Artificial Intelligence and Machine Learning
+Algocian - Artificial Intelligence and Machine Learning
+AlgoFace - Artificial Intelligence and Machine Learning
+Algolia - Data and Analytics
+AlgoMedica - Healthcare and Life Sciences
+Algorithmia - Artificial Intelligence and Machine Learning
+Algotech - Artificial Intelligence and Machine Learning
+AlgoTrader - Finance and Investing
+AlgoTrim - Artificial Intelligence and Machine Learning
+AlgoVision - Artificial Intelligence and Machine Learning
+AlgoYnithm - Artificial Intelligence and Machine Learning
+Allganize - Artificial Intelligence and Machine Learning
+AllStripes - Healthcare and Life Sciences
+Alluxio - Data and Analytics
+Alpaca.ai - Artificial Intelligence and Machine Learning
+Alpha Medical - Healthcare and Life Sciences
+Alphabet - Technology and Internet
+Alphabet Energy - Energy and Sustainability
+Alphalake AI - Artificial Intelligence and Machine Learning
+AlphaSense - Data and Analytics
+Alphonso - Multimedia and Creative
+Alsocure - Artificial Intelligence and Machine Learning
+Altana AI - Artificial Intelligence and Machine Learning
+Altum AI - Artificial Intelligence and Machine Learning
+Altum Analytics - Data and Analytics
+Amaroq - Artificial Intelligence and Machine Learning
+Amazon Rekognition - Artificial Intelligence and Machine Learning
+Amenity Analytics - Data and Analytics
+Amii - Artificial Intelligence and Machine Learning
+Amp.ai - Artificial Intelligence and Machine Learning
+Amper Music - Multimedia and Creative
+Amplero - Marketing and Advertising
+Anagog - Artificial Intelligence and Machine Learning
+Anki - Robotics and Automation
+Anodot - Data and Analytics
+AntWorks - Artificial Intelligence and Machine Learning
+Anyclip - Multimedia and Creative
+AnyVision - Artificial Intelligence and Machine Learning
+Appen - Artificial Intelligence and Machine Learning
+AppFolio AI - Real Estate and Property Management
+Appier - Marketing and Advertising
+AppNeta - Networking and Connectivity
+AppTek - Artificial Intelligence and Machine Learning
+AppZen - Finance and Investing
+Archii AI - Artificial Intelligence and Machine Learning
+ArchIntel - Data and Analytics
+Argo AI - Automotive and Transportation
+Arize AI - Artificial Intelligence and Machine Learning
+Arterys - Healthcare and Life Sciences
+Arti - Multimedia and Creative
+Artificial Solutions - Artificial Intelligence and Machine Learning
+ArtiHealth - Healthcare and Life Sciences
+Artiwise - Artificial Intelligence and Machine Learning
+Arya - Artificial Intelligence and Machine Learning
+Ascent Robotics - Robotics and Automation
+Ascent.ai - Artificial Intelligence and Machine Learning
+Ascribe.ai - Artificial Intelligence and Machine Learning
+Ask Thee - Artificial Intelligence and Machine Learning
+Ask Your PDF - Artificial Intelligence and Machine Learning
+Aspire IQ - Marketing and Advertising
+Assembled - Robotics and Automation
+AsteriaAl - Artificial Intelligence and Machine Learning
+Astronomer - Data and Analytics
+Atos AI Lab - Artificial Intelligence and Machine Learning
+Atrium - Legal and Compliance
+Atrius Health - Healthcare and Life Sciences
+Attentive - Marketing and Advertising
+Attivio - Data and Analytics
+Attores - Blockchain and Cryptocurrency
+Auquan - Finance and Investing
+Auransa - Healthcare and Life Sciences
+Aureus Analytics - Finance and Investing
+Aurima.ai - Artificial Intelligence and Machine Learning
+Aurora Labs - Automotive and Transportation
+Aurora Solar - Energy and Sustainability
+Authenticiti - Blockchain and Cryptocurrency
+Automat - Marketing and Advertising
+Automation Anywhere - Robotics and Automation
+Automaton AI - Artificial Intelligence and Machine Learning
+Ava - Customer Service and Support
+Ava Robotics - Robotics and Automation
+Avaamo - Artificial Intelligence and Machine Learning
+Avanseus - Artificial Intelligence and Machine Learning
+Avantari Technologies - Artificial Intelligence and Machine Learning
+Aviso AI - Sales and Marketing
+Avora - Data and Analytics
+Axiado - Cybersecurity
+Azure AI - Cloud Computing and Services.
+BabbleLabs - Speech and audio processing
+Baidu - Search engine and AI
+Bambuser - Live video streaming
+Banjo - Social media monitoring and analysis
+Banuba - AI-powered augmented reality
+Bartle Bogle Hegarty BBH - Advertising and marketing
+Base64AI - AI-powered image and video recognition
+Beagle.ai - AI-powered contract analysis
+Beintoo - Mobile advertising and engagement
+BenevolentAI - AI-powered drug discovery
+Berlin Innovation Ventures - Venture capital firm
+Beyond Limits - AI solutions for industrial and enterprise clients
+BeyondMinds - AI platform for automating business processes
+BioCatch - Behavioral biometrics and fraud prevention
+Biodigital - Interactive human anatomy platform
+BioMind - AI-powered medical diagnosis
+BioSymetrics - AI-powered data analysis for life sciences
+Birdy AI - AI-powered personal shopping assistant
+Bitext - Multilingual text analytics and natural language processing
+Bitmoji - Personalized emoji creation
+Bitvore - AI-powered investment insights
+Blinkist - Book summary and learning platform
+Blinkx - Video search engine
+Blue River Technology - Robotics and AI for agriculture
+BlueSense Networks - IoT solutions for air quality monitoring
+Blueshift - AI-powered marketing automation
+Bonsai AI - AI platform for building autonomous systems
+Botpress - Open-source conversational AI
+BotsAndUs - Autonomous robots for retail and hospitality
+BotStar - Chatbot builder platform
+Bottlenose - AI-powered trend analysis and insights
+Box - Cloud content management and collaboration
+Brain Corp - Robotics and AI for commercial cleaning and retail industries
+BrainChip - Neuromorphic computing and AI
+BrickHouse Security - Security and surveillance solutions
+Bright.md - AI-powered healthcare platform
+Brightcove - Online video platform
+Brighter AI - AI-powered anonymization of facial images
+Bryter - No-code automation platform for legal and compliance
+Bubble - No-code web and mobile app builder
+Bugsee - In-app bug and crash reporting
+Bunch.ai - Team analytics and collaboration
+BuntPlanet - Eco-friendly travel and tourism
+Butterfly Network - Handheld ultrasound device and AI-powered diagnosis
+Cambridge Intelligence - Data visualization
+Cape Analytics - Insurance tech
+Caption Health - Healthcare
+Casetext - Legal tech
+Century Analytics - Data science
+Cerebras - Artificial intelligence hardware
+Chaayos.ai - Food tech
+Chorus.ai - Sales tech
+Clarifai - Artificial intelligence
+Clarify Health - Healthcare
+ClarifyAI - Artificial intelligence
+ClearBrain - Marketing tech
+Cleo - Fertility and family planning
+Clinc - Artificial intelligence
+CloudMedX Health - Healthcare
+CloudMinds - Cloud robotics
+CloudWalk - Facial recognition
+Cognigy - Conversational AI
+Cognimates - Edtech
+Cognism - Sales intelligence
+Cognitai - Artificial intelligence
+CognitiveScale - Enterprise AI
+Cognitiveservices.ai - Artificial intelligence
+Cognitivesignals - Neuroscience
+Cognitiveso - Artificial intelligence
+Cognitivesolutions - Information management
+CognitiveSpace - Artificial intelligence
+CognitiveSpaces - Artificial intelligence
+CognitiveSpring - Artificial intelligence
+CognitiveSurplus - Cognitive science
+Cognitivix - Artificial intelligence
+Coherent Logix - Artificial intelligence hardware
+Cohesive Al - Artificial intelligence
+Collaborative Drug Discovery CDD - Life sciences
+ComprehendAI - Artificial intelligence
+Daisy Intelligence - Artificial Intelligence
+DARKTRACE - Cybersecurity
+DarwinAI - Artificial Intelligence
+Databook - Sales Intelligence
+Databricks - Big Data and Analytics
+Datafold - Data Management
+Dataiku - Artificial Intelligence
+Datalog.ai - Data Management
+Datalogue - Data Management
+Datalytyx - Data Analytics
+Dataminr - Artificial Intelligence
+Datarobot - Artificial Intelligence
+Datatron - Artificial Intelligence
+DataVisor - Cybersecurity
+Datumize - Data Management
+Deep 3 - Artificial Intelligence
+Deep 6 AI - Healthcare
+Deep Genomics - Healthcare
+Deep Instinct - Cybersecurity
+Deep Vision - Artificial Intelligence
+Deepgram - Speech Recognition
+DeepHow - Artificial Intelligence
+DeepJunctionAI - Artificial Intelligence
+Deeplite - Artificial Intelligence
+Deepomatic - Artificial Intelligence
+Deepsense.ai - Artificial Intelligence
+DefinedCrowd - Artificial Intelligence
+Delft Robotics - Robotics
+Dell EMC - Technology
+Descartes Labs - Big Data and Analytics
+Dessa - Artificial Intelligence
+Dessa Lab - Artificial Intelligence
+Dhivya AI - Artificial Intelligence
+Dialogflow - Artificial Intelligence
+Dialpad - Communications
+Diamanti - Cloud Infrastructure
+Diffblue - Software Testing
+Diffia - Artificial Intelligence
+DigiByte AI - Blockchain
+Digital Reasoning - Artificial Intelligence
+DigitalGenius - Artificial Intelligence
+Digitalware - Technology
+Dixa - Customer Service
+Doc.ai - Healthcare
+DocAuthority - Information Governance
+DocDigitizer - Data Management
+Docsumo - Document Processing
+DOMO - Business Intelligence
+Dotin - Artificial Intelligence
+DreamQuark - Artificial Intelligence
+Dremio - Big Data and Analytics
+Drift - Conversational Marketing
+Drishti Technologies - Artificial Intelligence
+Drive.ai - Autonomous Vehicles
+Dryad Networks - IoT
+DSco - Supply Chain Management
+DSGinnovative Solutions - Technology
+Duda - Website Design and Development.
+Eigen Technologies - Artificial Intelligence
+Eightfold.ai - Human Resources
+Element AI - Artificial Intelligence
+Elula - Artificial Intelligence
+Emagin - Artificial Intelligence
+Embodied - Artificial Intelligence
+Embold - Software Development
+Empath Inc. - Artificial Intelligence
+Endor - Artificial Intelligence
+Enlitic - Healthcare
+Entropik Tech - Emotional Intelligence
+Envisagenics - Biotechnology
+Epica - Marketing
+Epistemic AI - Artificial Intelligence
+Epsagon - Cloud Computing
+Ergo - Productivity
+Erudify - Education
+Ethyca - Data Privacy
+EVA Bot - Artificial Intelligence
+EventBot - Event Planning
+Everlaw - Legal Technology
+Evisort - Contract Management
+Evolv - Artificial Intelligence
+Evolv Technology - Security
+Exa.ai - Artificial Intelligence
+Exabeam - Security
+Eyeris - Artificial Intelligence
+Ezako - E-commerce
+Ezora - E-commerce
+Fabula AI - Artificial Intelligence
+Face++ - Facial Recognition
+FaceBanx - Facial Recognition
+Falkonry - Industrial Automation
+Fashwell - Fashion Technology
+Feedzai - Fraud Detection
+Fero Labs - Data Science
+Fetch Robotics - Robotics and Automation
+Fiddler - Artificial Intelligence
+FigmaAl - Design Software
+Figmenta - Virtual Reality
+FiveAI - Autonomous Vehicles
+Fractal - Artificial Intelligence
+Fractal Analytics - Artificial Intelligence
+Freeness - Health and Wellness
+Freenetik - Software Development
+Freenome - Biotechnology
+Freenomics - Financial Technology
+Freenotics - Software Development
+Freenumbers - Telecommunications
+FullStory - Customer Experience
+FundGuard - Financial Technology
+Fusemachines - Artificial Intelligence
+G2 Crowd - Business Software Reviews
+Gamalon - Artificial Intelligence
+Gecko Robotics - Robotics and Automation
+GenesisAI - Artificial Intelligence
+Genesys - Customer Experience and Contact Center Solutions
+Geospiza - Artificial Intelligence for Genetic Analysis
+Ghostwriter - Artificial Intelligence for Content Creation
+Gideon Brothers - Mobile Robots and AI
+Glean Labs - Education Technology
+GleanAl - Software
+Glia - Customer Service and Digital Communication
+Gluru - Artificial Intelligence for Personal Assistance
+Gong - Revenue Intelligence
+Gong.io - Sales Enablement
+Goodly Labs - Social Impact Technology
+Google AI - Artificial Intelligence Research and Development
+Grakn.ai - Knowledge Graph and Artificial Intelligence
+Grammarly - Writing Assistance and Grammar Checking
+Graphcore - AI Accelerator Technology
+GrayMatter AI - Artificial Intelligence for Business Optimization
+Grid.ai - Artificial Intelligence Platform
+Guardant Health - Precision Oncology
+GumGum - Computer Vision and Advertising
+Gyana - Artificial Intelligence for Data Analytics
+Gyrfalcon Technology - AI Accelerator Chips
+H2O.ai - Open Source Artificial Intelligence
+Habana Labs - AI Processor Solutions
+Hacarus - AI for Medical Imaging and Industrial Inspection
+Hailo - AI Processor Technology
+Halla - Artificial Intelligence for Food and Beverage Personalization
+Hazy - AI for Data Privacy
+HeadSpin - Mobile Application Platform
+Healthtech.AI - Healthcare Technology Solutions
+Healx - Artificial Intelligence for Drug Discovery
+Hello Alice - Business Assistance and Networking
+Hemlane - Property Management Technology
+Hereafter - End-of-Life Planning and Support
+Highspot - Sales Enablement and Content Management
+Hints Al - Artificial Intelligence for Personal Assistance
+Hivemapper - Mapping and Geospatial Intelligence
+Hmlet AI - Real Estate Technology
+Holistic Industries - Cannabis Industry
+HoloMatic - Autonomous Driving and Robotics
+Hopper AI - Travel Booking and Planning
+Hugging Face - Natural Language Processing and Chatbots
+Humanizing AI - Ethical AI Development and Implementation
+Humley - Conversational AI Solutions
+Hyper Anna - Business Intelligence and Data Analytics
+Hypergiant - Artificial Intelligence Consultancy and Solutions
+Hypersay - Interactive Presentations and Audience Engagement
+Hyperscience - Intelligent Document Processing
+Hypersonix - AI-Powered Business Intelligence and Analytics
+Hypotenuse Al - Artificial Intelligence for Education and Learning
+IBM: Technology/Computing
+IBM Watson: Technology/Computing
+Idibon: N/A (website not found)
+Imagia: Healthcare/Imaging
+iManage: Technology/Software
+iMerit: Technology/Artificial Intelligence
+Immuta: Technology/Data Management
+Inbenta: Technology/Artificial Intelligence
+InData Labs: Technology/Artificial Intelligence
+Indico: Technology/Artificial Intelligence
+Infermedica: Healthcare/Artificial Intelligence
+Infermedica: Healthcare/Artificial Intelligence
+Inferrd: Technology/Artificial Intelligence
+Infervision: Healthcare/Imaging
+Infosys: Technology/Consulting
+Inmind.ai: Technology/Artificial Intelligence
+Innovaccer: Healthcare/Technology
+Innovusion: Automotive/Technology
+Inpher: Technology/Data Security
+InsideSales: Technology/Sales
+Insightful Science: Technology/Scientific Research
+Insightful Science: Technology/Scientific Research
+Insights.AI: Technology/Artificial Intelligence
+Insilico Medicine: Healthcare/Artificial Intelligence
+Insilico Medicine: Healthcare/Artificial Intelligence
+Instart Logic: Technology/Marketing
+Integromat: Technology/Software
+Intel: Technology/Computing
+Intellegens: Technology/Artificial Intelligence
+Intelligent Voice: Technology/Speech Recognition
+Intellimind: Technology/Artificial Intelligence
+Intellimize: Technology/Marketing
+Intuition Robotics: Technology/Robotics
+Intuitive Surgical: Healthcare/Medical Devices
+InVision: Technology/Design
+Invivoo: Finance/Technology
+Invoca: Technology/Marketing
+Invoca: Technology/Marketing
+Iris Automation: Aerospace/Technology
+iRobot: Technology/Robotics
+iRobot irobot.com: Technology/Robotics
+Iterative.ai: Technology/Artificial Intelligence
+Iterative.ai iterative.ai: Technology/Artificial Intelligence
+Ivalua: Technology/Procurement
+Janrain: Technology/Identity Management
+Jask: Technology/Security
+JASK No longer accessible: N/A (website not found)
+Jetlore: Technology/Marketing
+JFrog: Technology/Software
+Jina AI: Technology/Artificial Intelligence
+Jirav: Technology/Finance
+Jivox: Technology/Marketing
+Joonko: Technology/Human Resources
+Joveo: Technology/Recruiting
+Juji: Technology/Artificial Intelligence
+Jukin Media: Media/Entertainment
+Jukin Media: Media/Entertainment
+Jumbotail: Retail/Technology
+Jumio: Technology/Identity Verification
+Jumio : Technology/Identity Verification
+JumpMind: Technology/Software
+Jumprope: Technology/Content Creation
+Jvion: Healthcare/Artificial Intelligence
 K Health: Healthcare
 KAI: Artificial Intelligence
 KAI Analytics: Artificial Intelligence
