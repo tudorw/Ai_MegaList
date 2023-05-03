@@ -183,7 +183,11 @@
 - [Ascent AI](https://www.ascent.ai) - AI-driven platform for enterprise automation and data analytics.
 - [Astra](https://www.astra.ai) - AI-driven platform for satellite data analytics.
 - [Atricore](https://www.atricore.com) - AI-driven platform for identity and access management solutions.
-
+- Alpaca.ai
+- Amenity Analytics
+- Amplero
+- AppZen
+- Atrium
 
 - [BabbleLabs](https://babblelabs.com)
 - [Baidu](https://baidu.com)
