@@ -1071,9 +1071,583 @@
 - [Zulama ](zulama.com)
 - [Zumi ](zumi.im)
 
+K Health: Healthcare
+KAI: Artificial Intelligence
+KAI Analytics: Artificial Intelligence
+KAI OS: Operating System
+KAIROS: Facial Recognition
+Kalido.AI: Business Services
+Kasisto: Banking and Finance
+Kaskada: Data Analytics
+Kea: Property Management
+Keep: Cryptocurrency
+Kensho: Analytics and Machine Learning
+KeyReply AI Chatbot: Chatbot
+Keysight Technologies: Electronics and Telecommunications
+Kinetica: Data Analytics
+Kira Systems: Artificial Intelligence
+Kite: Programming Tools
+KiwiTech: Technology Services
+Klevu: E-commerce
+Klue: Competitive Intelligence
+Kneron: Artificial Intelligence and Semiconductors
+KNIME: Data Analytics
+KONTENTO: Marketing and Advertising
+KONTEXTO: Artificial Intelligence
+KONTEXTUAL: Artificial Intelligence
+KONUX: Artificial Intelligence and Industrial Automation
+Kraydel: Healthcare
+Kriptos: Cybersecurity
+Kryon Systems: Automation and Artificial Intelligence
+Kubeflow: Open-source Machine Learning
+KUNGFU.AI: Artificial Intelligence and Machine Learning
+Kyndi: Artificial Intelligence and Natural Language Processing
+Labellerr: Machine Learning and Data Annotation
+Lalpina Hydrogen: Hydrogen Fuel Technology
+Landing AI: Artificial Intelligence and Machine Learning
+Lattice Data: Data Analytics and Machine Learning
+Lava Labs: Business Incubator
+Le Wagon: Coding Bootcamp
+Leanplum: Mobile Marketing
+Leap Motion: Virtual and Augmented Reality
+Lemonade: Insurance
+LendBuzz: Financial Services
+LevaData: Supply Chain Management
+Likan Patra: Artificial Intelligence and Data Science
+Lingk: Education Technology
+Lingoda: Language Learning
+Linguix: Writing Assistant
+LinkedIn: Professional Networking
+Liris AI: Artificial Intelligence and Computer Vision
+Livelii: Healthcare
+Llobregat Valley: Business Incubator
+Lobe: Artificial Intelligence and Machine Learning
+LogicAI: Artificial Intelligence
+Logical Clocks: Data Analytics and Machine Learning
+Logically: Artificial Intelligence and Fact-Checking
+LogiNext: Logistics and Supply Chain Management
+Logz.io: Cloud-based Log Management
+LookaAl: Artificial Intelligence and Marketing
+Loop AI Labs: Artificial Intelligence and Machine Learning
+LovoAI: Artificial Intelligence and Voice Technology
+Lumen5: Video Creation and Marketing
+Lumiata: Healthcare Analytics
+Luminance: Legal Technology
+Luminar: Lidar Technology
+Luminoth: Computer Vision and Machine Learning
+Lumos AI: Artificial Intelligence and Chatbots
+LungLife AI: Healthcare and Artificial Intelligence
+Lusk.ai: Artificial Intelligence and Machine Learning
+Lynx Analytics: Data Analytics
+LyonSC: Sports
+Lyrebird AI: Artificial Intelligence and Voice Cloning
+Lyst: Fashion E-commerce
+Lytix: Biopharmaceuticals
+Magic Leap - Unknown sector
+Magic Pony Technology - Unknown sector
+MagicalAl - Unknown sector
+Mapbox - Geospatial Mapping/GIS
+MapR Technologies - Big Data
+MarcBot - Unknown sector
+MarkLogic - Database Management
+MarkopoloAl - Unknown sector
+MathWorks - Software Development/Engineering
+Matterport - 3D Imaging/Real Estate
+Mavenir Systems - Telecommunications
+MaxQ AI - Healthcare/Imaging
+MemAl - Unknown sector
+MemSQL - Database Management
+Merlon Intelligence - Financial Crime Prevention
+MetaMind - Artificial Intelligence
+Meya.ai - Chatbots/Artificial Intelligence
+Microsoft - Technology/Software
+MicroStrategy - Business Intelligence
+Mighty AI - Data Annotation/Management
+MindBridge Analytics - Financial Audit
+MindFoundry - Artificial Intelligence/Software Development
+MindMeld - Chatbots/Artificial Intelligence
+MindTickle - Sales Training/Enablement
+MindTitan - Artificial Intelligence
+MinIO - Data Storage
+Minitab - Data Analysis/Statistics
+MioTech - Financial Technology
+Mish Guru - Social Media Marketing
+Mixpanel - Business Analytics
+MoBagel - Internet of Things/Artificial Intelligence
+Mobvoi - Voice Recognition/Artificial Intelligence
+Modulate - Voice Modification/Artificial Intelligence
+Mojiworks - Mobile Gaming
+Moloco - Advertising/Marketing
+Molten - Artificial Intelligence
+Momentum - Productivity/Task Management
+MonkeyLearn - Data Analysis/Text Mining
+Moodbit - Employee Engagement/Wellness
+Moogsoft - IT Operations/Management
+Morpheus Labs - Blockchain/Software Development
+MorphL - Artificial Intelligence/Marketing Automation
+Mosaic Smart Data - Financial Markets/Analytics
+Mosaic.ai - Artificial Intelligence
+Mosaix - Customer Service/Artificial Intelligence
+Motion Al - Chatbots/Artificial Intelligence
+Moveworks - IT Support/Artificial Intelligence
+Mphasis DeepInsights - Data Analytics/Artificial Intelligence
+Multiverse - Education/Training
+MurfAl - Artificial Intelligence
+MuseNet - Artificial Intelligence/Music
+Mya Systems - Recruitment/Artificial Intelligence
+Myelin Foundry - Artificial Intelligence/Video Streaming
+MyndYou - Healthcare/Artificial Intelligence
+Mythic - Artificial Intelligence/Computer Hardware
+Nanit: Baby monitor and sleep tracking technology
+Nanonets: AI-powered document processing and data extraction
+NanoString Technologies: Life science tools for genomic analysis
+Nanowear: Wearable technology for remote patient monitoring
+Nara Logics: AI-powered personalization and recommendations for businesses
+Narrative Science: Natural language generation technology for data analytics
+Nauto: AI-powered fleet safety and management solutions
+NautoAI: Autonomous vehicle technology
+Netradyne: AI-powered driver safety and fleet management
+Neurable: Brain-computer interface technology for virtual and augmented reality
+Neurala: AI-powered visual inspection solutions
+NeuralBay: AI-powered predictive maintenance and quality control
+Neurocom: AI-powered neuroscience research tools
+NeuroFlow: Mental health technology for patients and providers
+Neurophate: AI-powered drug discovery platform
+Neuton AI: AI-powered predictive analytics platform
+Nexar: AI-powered dashcam and smart driving technology
+Next IT: AI-powered virtual assistant technology for enterprise
+Nextbase: Dashcams and connected car technology
+Nightingale: Health monitoring and analysis technology
+Nimbella: Serverless computing platform
+Niramai: AI-powered breast cancer screening technology
+NLP Cloud: Natural language processing technology
+NLP Logix: AI-powered predictive analytics and data modeling
+NLPBots: Natural language processing technology for chatbots
+Node: AI-powered data analysis platform
+Nuance: Speech and AI-powered healthcare technology
+Nuburu: AI-powered laser technology for industrial applications
+Nucleai: AI-powered pathology and radiology solutions
+Numenta: AI-powered machine intelligence research
+Numerai: AI-powered stock market predictions
+Nutonomy: Autonomous vehicle technology
+NVIDIA: AI-powered GPU technology for computing and gaming
+ObjectBox: Edge computing and data synchronization technology
+Objectivity: AI-powered data management solutions
+Observe.AI: AI-powered call center technology
+Observify: AI-powered social media listening and analysis
+Ohi AI: AI-powered e-commerce and logistics technology
+Oliver.ai: AI-powered document management and analysis
+Omilia: AI-powered conversational automation technology
+Omnisci: AI-powered data analytics and visualization
+One Concern: AI-powered disaster response and mitigation technology
+OneClick.ai: AI-powered automated machine learning platform
+OneSoil: AI-powered agriculture technology
+Onfido: AI-powered identity verification technology
+Onshape: Cloud-based CAD technology
+OpenAI: AI research and development
+OpenCV: Open source computer vision technology
+OpenGov: Government financial transparency and data analysis technology
+OpenText: Enterprise content management and AI-powered analytics
+Optibus: AI-powered public transportation planning and optimization
+Optimizely: AI-powered website optimization technology
+Optum: Healthcare technology and innovation lab
+Orbbec: 3D camera technology for IoT and robotics
+Orbital Insight: AI-powered geospatial analytics technology
+Orbital Socket: AI-powered data analysis and visualization
+Orcam: AI-powered visual aid technology for the visually impaired
+Orchestra: AI-powered talent management and resourcing technology
+Osaro: AI-powered robotics and automation technology
+Osirium: AI-powered cybersecurity technology
+Osmo: AI-powered educational technology for children
+Owkin: AI-powered medical research technology
+Oxagile: AI-powered software development and consulting services
+Oxbotica: Autonomous vehicle technology and AI-powered fleet management
+Pachyderm: Data Science and Machine Learning
+Palantir Technologies: Analytics and Cybersecurity
+Palo Alto Networks: Cybersecurity
+Paperspace: Cloud Computing
+ParallelM: Machine Learning Operations
+PathAI: Healthcare and Medical Imaging
+PaveAI: Sales and Marketing
+Peak AI: Artificial Intelligence and Machine Learning
+Pecan: Predictive Analytics
+Peltarion: Artificial Intelligence and Deep Learning
+People.AI: Sales and Marketing
+Pepperdine University: Education
+Pepperfry: E-commerce and Furniture
+PerceptiLabs: Artificial Intelligence and Machine Learning
+Percieve Box: Artificial Intelligence and Computer Vision
+PerfitAI: Healthcare and Medical Imaging
+PerimeterX: Cybersecurity
+Peritus.ai: Financial Services and Risk Management
+Persado: Marketing and Advertising
+Petuum: Artificial Intelligence and Machine Learning
+Phrasee: Marketing and Advertising
+PicassoAI: Artificial Intelligence and Creativity
+Pienso: Artificial Intelligence and Machine Learning
+PillPack: Healthcare and Pharmacy
+Pinpoint Predictive: Predictive Analytics and Marketing
+Playment: Artificial Intelligence and Computer Vision
+PlumeAI: Artificial Intelligence and Machine Learning
+Pluralsight: Education and Technology
+PocketConfidant AI: Artificial Intelligence and Mental Health
+Point AI: Artificial Intelligence and Machine Learning
+PolyAI: Natural Language Processing and Conversational AI
+Predata: Predictive Analytics and Risk Management
+PredictHQ: Predictive Analytics and Event Intelligence
+Predii: Artificial Intelligence and Predictive Maintenance
+Premonition: Artificial Intelligence and Legal Analytics
+Previse: Artificial Intelligence and Supply Chain Financing
+Primed: Healthcare and Medical Imaging
+Primer: Natural Language Processing and Machine Learning
+Prodigo: Healthcare Supply Chain Management
+Prodigy: Education and Technology
+Prometeo: Healthcare and Medical Imaging
+Promptpal Al: Artificial Intelligence and Natural Language Processing
+Prowler.io: Artificial Intelligence and Decision Making
+Proximie: Healthcare and Medical Imaging
+Publer: Social Media Marketing
+Pylon AI: Artificial Intelligence and Machine Learning
+Pypestream: Conversational AI and Customer Engagement
+Pythia: Predictive Analytics and Customer Intelligence
+PyTorch: Artificial Intelligence and Machine Learning
+Qatalog: Work Management and Collaboration
+Qeexo: Machine Learning and Sensor Data
+QiO Technologies: Industrial Internet of Things and Artificial Intelligence
+Qlearsite: Employee Experience and Analytics
+Qloo: Artificial Intelligence and Cultural Graph
+Qmind: Artificial Intelligence and Cognitive Computing
+Qntfy: Predictive Analytics and Machine Learning
+Qoggly: Artificial Intelligence and Data Science
+Qognify: Video Analytics and Physical Security
+Qordoba: Content Intelligence and Localization
+Qrativ: Healthcare and Medical Imaging
+Quantemplate: Data Integration and Analytics
+Quantum Computing: Quantum Computing Technology
+QuantumBlack: Data Science and Machine Learning
+Qubit: Personalization and Customer Experience
+QuestAI: Artificial Intelligence and Customer Service
+Quickpath: Artificial Intelligence and Computer Vision
+Quid: Market Intelligence and Analytics
+Quidnet Energy: Energy Storage and Management
+Quill: Education and Literacy
+Quilt AI: Data Analytics and Machine Learning
+Quinvio Al: Artificial Intelligence and Data Science
+Quod AI: Natural Language Processing and Machine Learning
+Quotify: Artificial Intelligence and Sales Intelligence
+Sector: Data Science
 
+R (r-project.org)
+Rage Frameworks (rageframeworks.com)
+RapidMiner (rapidminer.com)
+Rasa (rasa.com)
+RealityEngines.AI (realityengines.ai)
+Recursion Pharmaceuticals (recursionpharma.com)
+Resemble AI (resemble.ai)
+Sector: Artificial Intelligence
 
+Rainbird (rainbird.ai)
+Receptiviti (receptiviti.com)
+Rekognition Amazon (aws.amazon.comrekognition)
+Resonai (resonai.com)
+Reverberate (reverberate.ai)
+Riminder (riminder.net)
+Robovision (robovision.ai)
+Robust Intelligence (robustintelligence.com)
+RoomGPT (roomgpt.io)
+Rulai (rulai.ai)
+Ruum (ruumapp.com)
+Sector: Robotics
 
+Realtime Robotics (rtr.ai)
+Robotiq (robotiq.com)
+Sector: Miscellaneous
+
+Rainbird (rainbird.ai)
+Realm (realm.io)
+Recime (recime.io)
+Redspace (redspace.com)
+Reduct (reduct.io)
+Refinitiv Labs (refinitiv.comenlabs)
+Reflektion (reflektion.com)
+Relativity6 (relativity6.com)
+Remesh (remesh.ai)
+Reminiz (reminiz.com)
+Remove.bg (remove.bg)
+RephraseAl (rephrase.ai)
+Replex (replex.io)
+Replicant (replicant.ai)
+Rescale (rescale.com)
+Reveal Group (revealgroup.com)
+Reverie Labs (reverielabs.com)
+ReziAI (rezi.ai)
+Ribon (ribon.io)
+RightIndem (rightindem.com)
+Roam Analytics (roamanalytics.ai)
+Roam around (roamaroo.comroamaround)
+RocketFuel (rocketfuel.com)
+Salesforce: Customer Relationship Management (CRM)
+Saleswhale: Sales & Marketing
+SambaNova Systems: Artificial Intelligence (AI)
+Scale AI (scale.com:an): Machine Learning
+Scale AI (scale.com): Machine Learning
+Scale AI (scale.com): Machine Learning
+Sensely: Healthcare
+SenseTime (sensetime.com:an): Computer Vision
+SentinelOne: Cybersecurity
+Senzing (senzing.com:an): Identity Resolution
+SevenRooms: Hospitality
+Seventh Sense: Email Marketing
+Sherpa (sherpa.ai:an): Personal Shopping Assistant
+Shift Technology: Insurance Claims
+SiFive: Semiconductors
+Sift: Digital Trust & Safety
+Sift Science: Fraud Prevention
+Sight Machine: Manufacturing Analytics
+SightCall: Visual Support
+Sigtuple (sigtuple.com:a): Medical Imaging
+Singular (singular.net:a): Marketing Analytics
+SingularityNET: Decentralized AI Network
+Skaleet (skaleet.com:an): Software Development
+Skytree: Machine Learning
+Snorkel AI: Data Labeling
+Snyk: Security for Developers
+Social AI (http:socialai.gatech.edu): Social Media Analysis
+Socure: Identity Verification
+Sorcerro: Cybersecurity
+SoundHound (soundhound.com:an): Music Recognition
+SoundHound: Music Recognition
+SparkCognition (sparkcognition.com:an): AI-Powered Cybersecurity
+SparkCognition: AI-Powered Cybersecurity
+SparkCognition: AI-Powered Cybersecurity
+Spectral: Code Security
+Splunk: Data Analytics
+Squarespace: Website Building
+StabilityAl: Financial Risk Management
+Stack Overflow: Q&A Community for Developers
+Stitch Fix: Online Personal Styling
+Stradigi AI: AI Solutions
+Study Al: Education Technology
+SuggestyAl: Fashion & Beauty Curation
+Suki.AI (suki.ai:an): Medical Scribing
+Suki.AI: Medical Scribing
+Sukiennice (sukiennice.ai:an): Fashion Retail
+SukiPlus (sukiplus.com:a): Medical Scribing
+Sukya (sukiya.ai:an): Medical Scribing
+SupercreatorAl: Creative AI
+SupernormalAl: Creative AI
+Sword Health (swordhealth.com:a): Physical Therapy
+Synamedia (synamedia.com:an): Video Solutions
+Synerise (synerise.com:an): Marketing Automation
+SynerScope (synerscope.com:an): Big Data Analytics
+Synopsys: Semiconductor Design & Verification
+Synthetix (synthetix.com:an): Customer Service Chatbots
+Syntiant: Neural Decision Processors
+Syntiant (syntiant.com:an): Neural Decision Processors
+Systems Laboratory ACSL (http:acsl.seas.harvard.edu): Robotics, Control, & Intelligent Systems
+Talkdesk: Customer Service & Support
+Talla: Artificial Intelligence & Machine Learning
+Tamoco: Advertising & Marketing
+Tamr: Data Management & Integration
+Tanjo: Artificial Intelligence & Machine Learning
+TARA AI: Project Management & Collaboration
+Tata Consultancy Services: Information Technology & Services
+Tautology: Artificial Intelligence & Machine Learning
+TazData: Data Management & Integration
+TealBook: Procurement & Supply Chain
+TechSee: Customer Service & Support
+Teckro: Life Sciences & Healthcare
+Tempered Networks: Cybersecurity
+Teneo: Natural Language Processing & Conversational AI
+TensorFlight: Artificial Intelligence & Machine Learning
+TensorWatch: Artificial Intelligence & Machine Learning
+TensorWise: Artificial Intelligence & Machine Learning
+Teraki: Internet of Things & Connected Devices
+TerminusDB: Data Management & Integration
+Tessian: Cybersecurity
+Textio: Artificial Intelligence & Machine Learning
+Textkernel: Human Resources & Recruiting
+Thematic: Artificial Intelligence & Machine Learning
+ThetaRay: Cybersecurity
+Thetaris: Financial Services & Trading
+ThinkData Works: Data Management & Integration
+ThinkIQ: Internet of Things & Connected Devices
+Third Wave Analytics: Life Sciences & Healthcare
+ThoughtSpot: Business Intelligence & Analytics
+ThreeFlow: Artificial Intelligence & Machine Learning
+ThryveAI: Agriculture & Farming
+Topi: Event Management & Networking
+Topos Labs: Artificial Intelligence & Machine Learning
+Tove: Real Estate & Property Management
+Tractable: Artificial Intelligence & Machine Learning
+Transcelestial Technologies: Telecommunications
+Transcriptic: Life Sciences & Healthcare
+TransFICC: Financial Services & Trading
+Transmetrics: Logistics & Transportation
+Tray.io: Business Process Automation
+Trianz: Information Technology & Services
+Tricog Health: Life Sciences & Healthcare
+Trifacta: Data Management & Integration
+Trill AI: Artificial Intelligence & Machine Learning
+Tropic: Natural Language Processing & Conversational AI
+True Fit: Retail
+Truepic: Cybersecurity
+Truera: Artificial Intelligence & Machine Learning
+Trust: Cybersecurity
+TrustaBit: Aviation & Hospitality
+TruSTAR: Cybersecurity
+Turing: Artificial Intelligence & Machine Learning
+Turo: Car Sharing & Rentals
+TuSimple: Autonomous Vehicles & Transportation
+Twilio: Communications & Collaboration
+UbiOps: Cloud computing
+Ubiquity6: Augmented Reality
+Ufora: Artificial Intelligence
+UiPath: Robotic Process Automation
+Umbo Computer Vision: Computer Vision and Security
+Umbra: 3D Graphics and Rendering
+Umbrella Network: Decentralized Finance
+Unacast: Data Analytics
+Unbabel: Language Translation
+Understand.ai: Autonomous Vehicles
+Unearth Technologies: Construction Technology
+Uniphore: Conversational AI
+Unity Technologies: Game Development
+Unlearn.AI: Machine Learning
+Unleash.live: Video Streaming
+Unsupervised: Data Analytics and Machine Learning
+Upside AI: Investment Management
+Uptake: Predictive Maintenance
+Uptycs: Cybersecurity
+Upwork: Freelance Marketplace
+UserTesting: User Experience Testing
+Valence Health: Healthcare Analytics
+Valla: Marketing Technology
+Valohai: Machine Learning Operations
+VantageAI: Predictive Maintenance and Quality Control
+Vector AI: Natural Language Processing
+Verbit: Transcription and Captioning
+Verily: Life Sciences and Healthcare
+Verkada: Video Security
+Verloop: Customer Engagement
+Veros Systems: Predictive Maintenance and Asset Management
+Verusen: Supply Chain Optimization
+Vic.ai: Accounting Automation
+Viv Labs: Conversational AI
+VividWorks: 3D Product Configuration
+Viz.ai: Medical Imaging
+Vizion.ai: Cloud Data Analytics
+VMware: Cloud Infrastructure and Virtualization
+Voyage: Self-Driving Cars
+Voyager Labs: Predictive Analytics
+Vyasa Analytics: Life Sciences and Healthcare
+Vymo: Sales Enablement
+Waitroom AI - Healthcare
+Wand - Technology
+Wand AI - Technology
+Wandera - Cybersecurity
+WaveAI - Artificial Intelligence
+Wavenet - Telecommunications
+Waymo - Self-driving cars
+Wayve - Self-driving cars
+WeaveGrid - Energy
+Wefox - Insurance
+Weightless.ai - Artificial Intelligence
+Weights and Biases - Technology
+Wejo - Automotive
+Weka - Machine Learning
+Welligent - Education
+WellSaid Labs - Artificial Intelligence
+Wenco International Mining Systems - Mining
+Wever - Supply Chain
+WhaleLend - Finance
+Whetlab - Artificial Intelligence
+Whimsical - Productivity
+Whispr - Industrial Internet of Things
+WhyLabs - Artificial Intelligence
+Wia - Internet of Things
+WillowTree - Mobile App Development
+Winding Tree - Travel and Hospitality
+WiSAR Lab - Research and Development
+Wise - Finance
+Wit.ai - Artificial Intelligence
+Witbe - Telecommunications
+Within3 - Healthcare
+Woflow - Artificial Intelligence
+Wolfram Alpha - Computation
+Wolox - Digital Transformation
+Wondeur AI - Artificial Intelligence
+Wordtune - Writing
+WorkFusion - Automation
+Woven Planet Holdings - Automotive
+WriteSonic - Writing
+Wysa - Mental Health
+Wysdom.AI - Artificial Intelligence
+Here are the website sectors and their respective summaries:
+
+Artificial Intelligence (AI):
+x.ai
+Xesto.ai
+Ximilar
+Xineoh
+Xnor.ai
+Xnor's AI Edge Inference Platform
+Xnor's AI Sensing Platform
+Xnor's AI2GO
+Yellowbox
+Summary: These websites are all related to artificial intelligence, with some specializing in AI platforms for various applications, while others focus on AI-powered tools and solutions.
+
+Manufacturing and Supply Chain:
+Xometry
+Xpansiv
+Summary: Xometry and Xpansiv both belong to the manufacturing and supply chain sector, with Xometry offering on-demand manufacturing services, and Xpansiv providing a trading platform for commodity products.
+
+Augmented Reality (AR):
+Xperiel
+Summary: Xperiel is an augmented reality company that offers a platform for creating interactive experiences and immersive content.
+
+Search Engines:
+Yandex
+Summary: Yandex is a search engine and technology company that specializes in internet-related services, including search, mapping, and online advertising.
+
+Healthcare:
+Your.MD
+Yseop
+Yseop
+YuLife
+Summary: These websites are all related to healthcare, with Your.MD offering a symptom checker and health advice, Yseop providing an automated reporting tool for medical professionals, and YuLife offering life insurance policies with wellness benefits.
+
+Data Analytics:
+Yellowbrick Data
+Summary: Yellowbrick Data is a data analytics company that provides a high-performance data warehouse platform for big data and analytics workloads.
+
+Miscellaneous:
+Yewno
+Yitu Technology
+Yonder
+YuJa
+Summary: These websites do not fit into the above categories, with Yewno offering a knowledge discovery platform, Yitu Technology providing AI-powered solutions for various applications, Yonder offering AI-powered insights and recommendations for businesses, and YuJa offering video management and conferencing solutions.
+Zebra Technologies	Technology	Offers enterprise-level data capture and automatic ID solutions
+Zebrium	Technology	AI-powered log analytics for IT operations
+Zenatix	Energy	Provides energy management solutions for commercial buildings
+Zenify	Real Estate	Offers property management services using AI
+Zensed	Finance	Provides fraud prevention and security solutions
+Zensors	Technology	Offers real-time data insights using IoT sensors
+ZeroFOX	Security	Social media and digital security software provider
+Zest	AI	Offers AI-powered decision-making tools for businesses
+Zesty	Food	Online food ordering and delivery platform
+Zimperium	Security	Provides mobile threat defense solutions
+ZineOne	Marketing	Offers real-time personalization software for marketers
+ZingBox	IoT	Offers IoT security and management solutions
+Zoho	Business	Provides cloud-based software for businesses
+Zola Electric	Energy	Provides renewable energy solutions in Africa
+Zola Stays	Hospitality	Offers branded accommodations for long-term stays
+Zopa	Finance	Offers peer-to-peer lending and investment platform
+Zorroa	Technology	Provides AI-powered content intelligence solutions
+ZorroSign	Security	Offers digital signature and document management solutions
+Zscaler	Security	Provides cloud-based internet security solutions
+Zulama	Education	Offers game-based learning courses for students
+Zumi	Technology	Offers AI-powered video interviewing software for hiring
 
 
 
